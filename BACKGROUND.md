@@ -7,18 +7,18 @@ Canada has already experimented with sector-focused investment approaches. The f
 
 # Decision Maker
 
-Federal Minister of Jobs and Families (Mélanie Joly)
-Provincial Ministers:
-British Columbia: Jennifer Whiteside (Minister of Labour)
-Ontario: David Piccini (Minister of Labour, Immigration, Training and Skills Development)
-Alberta: Joseph Schow (Minister of Jobs, Economy, Trade and Immigration)
-Nova Scotia: Nolan Young (Minister of Labour, Skills and Immigration)
-Quebec: Jean Boulet (Minister of Labour)
-Manitoba: Malaya Marcelino (Minister of Labour and Immigration of Manitoba)
-Saskatchewan: Ken Cheveldayoff (Minister of Labour Relations and Workplace Safety)
-New Brunswick: Alyson Townsend (Minister of Labour)
-Newfoundland and Labrador: Mike Goosney Minister of Government Services, Minister Responsible for the Office of the Chief Information Officer, Minister of Labour
-Prince Edward Island: Jenn Redmond (Minister of Workforce, Advanced Learning and Population)
+Federal Minister of Jobs and Families (Mélanie Joly)  
+Provincial Ministers:  
+British Columbia: Jennifer Whiteside (Minister of Labour)  
+Ontario: David Piccini (Minister of Labour, Immigration, Training and Skills Development)  
+Alberta: Joseph Schow (Minister of Jobs, Economy, Trade and Immigration)  
+Nova Scotia: Nolan Young (Minister of Labour, Skills and Immigration)  
+Quebec: Jean Boulet (Minister of Labour)  
+Manitoba: Malaya Marcelino (Minister of Labour and Immigration of Manitoba)  
+Saskatchewan: Ken Cheveldayoff (Minister of Labour Relations and Workplace Safety)  
+New Brunswick: Alyson Townsend (Minister of Labour)  
+Newfoundland and Labrador: Mike Goosney (Minister of Government Services, Minister Responsible for the Office of the Chief Information Officer, Minister of Labour)    
+Prince Edward Island: Jenn Redmond (Minister of Workforce, Advanced Learning and Population)  
 
 # Citations
 
