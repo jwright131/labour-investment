@@ -27,3 +27,40 @@ Department of Finance Canada. (2025). Budget 2025: Chapter 2 — Shifting from r
 Prime Minister’s Office. (2025, September 5). Prime Minister Carney launches new measures to protect, build and transform Canada’s workforce and industries. Government of Canada. https://www.pm.gc.ca/en/news/backgrounders/2025/09/05/prime-minister-carney-launches-new-measures-protect-build-and
 
 Innovation, Science and Economic Development Canada. (2024). Strategic Response Fund. Government of Canada. https://ised-isde.canada.ca/site/ised/en/programs-and-initiatives/strategic-response-fund
+
+# Potential Datasets
+
+Labour & Employment  
+  
+Labour Force Survey (LFS)  
+https://www.statcan.gc.ca/en/survey/household/3701  
+
+Employment by industry (annual)  
+Table 14-10-0202-01  
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410020201  
+
+Labour force characteristics by industry (monthly)  
+Table 14-10-0291-01  
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410029101
+
+Job vacancies and vacancy rates by industry
+Table 14-10-0372-01
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410037201
+
+Average hourly wages by industry
+Table 14-10-0064-01
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410006401
+
+Provincial & Regional Breakdowns
+
+Employment by industry and province
+Table 14-10-0202-01
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410020201
+
+Labour force characteristics by province
+Table 14-10-0022-01
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410002201
+
+Job vacancies by province and industry
+Table 14-10-0372-01
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410037201
