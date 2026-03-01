@@ -36,4 +36,13 @@ The causal loop diagram illustrates how government investment interacts with lab
 
 Empirical evidence supports the key causal relationships in the diagram. Recent federal workforce policy announcements emphasize investment in skills training and workforce development to address labour shortages, supporting the link between government investment and increased labour supply and industry capacity ([Government of Canada, 2025](https://www.canada.ca/en/employment-social-development/news/2025/10/backgrounder-on-measures-introduced-to-build-a-strong-and-confident-workforce.html)). National labour market reporting highlights how shifts in job vacancies are closely tied to wage movements, reinforcing the positive relationship between vacancy rates and wage levels ([Statistics Canada, 2025](https://www150.statcan.gc.ca/n1/daily-quotidien/251216/dq251216a-eng.htm)). In addition, the Bank of Canada’s Monetary Policy Report discusses how labour market tightness contributes to wage growth and broader economic conditions, supporting the reinforcing relationship between employment, wage pressures, and economic output ([Bank of Canada, 2025](https://www.bankofcanada.ca/publications/mpr/)). Together, these sources provide external validation for the polarity signs and feedback loops depicted in the causal loop diagram.
 
+## Citations
+
+Statistics Canada. (2020). Employment by industry, annual. Government of Canada. https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410020201
+
+Statistics Canada. (2020). Job vacancies, payroll employees and job vacancy rate by industry. Government of Canada. https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410037201
+
+Statistics Canada. (2020). Average hourly wages of employees by industry. Government of Canada. https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410024301
+
+Statistics Canada. (2020). Capital and repair expenditures, non-residential tangible assets, by industry and geography. Government of Canada. https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3410003501
 
