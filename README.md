@@ -17,7 +17,7 @@ This decision is particularly important because labour markets are changing rapi
 
 ## Causal Loop Diagram
 
-![Causal Loop Diagram](img/Causal%20Loop%20Labor%20Investment.drawio.png "CLD Initial Draft")
+![Causal Loop Diagram](img/cld_draft.png "CLD Initial Draft")
 
 The causal loop diagram (CLD) illustrates how key labour market variables interact to influence employment outcomes by industry. It shows a reinforcing loop in which higher employment growth increases employment levels, leading to greater industry concentration and higher vacancy pressure, which raises wages and further stimulates growth. At the same time, a balancing loop captures how rising employment reduces unemployment and vacancy pressure, which dampens wage growth and slows future employment growth. Together, these loops demonstrate how labour markets can both accelerate and stabilize over time, highlighting why policy interventions must account for feedback effects rather than isolated trends.
 
