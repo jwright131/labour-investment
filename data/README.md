@@ -1,6 +1,6 @@
 # Datasets Summary
 
-The original CSV files for each dataset were downloaded directly from their respective public sources and contain only minor modifications, specifically the removal of metadata rows and formatting elements that were not relevant to analysis. No data values were altered during this process. These cleaned CSV files were then processed and exported as Tableau .hyper files, which are the finalized versions used for data modeling and visualization development within Tableau.
+The original CSV files for each dataset were downloaded directly from their respective public sources and contain only minor modifications, specifically the removal of metadata rows and formatting elements that were not relevant to analysis. No data values were altered during this process. These cleaned CSV files were then processed and exported as Tableau CSV files, which are the finalized versions used for data modeling and visualization development within Tableau and Streamlit.
 
 ## Dataset 1: Employee Count
 
