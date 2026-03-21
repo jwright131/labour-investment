@@ -120,3 +120,7 @@ The cleaned datasets were exported from Tableau Prep as `.hyper` files. These fi
 * Are optimized for Tableau visualizations
 
 The original CSV files were retained with metadata removed, while the `.hyper` files represent the finalized datasets used in dashboard development.
+
+## 6. Final Output (Part 2)
+
+The `.hyper` files were then converted back to CSV's so they could be used for visualizations within Streamlit
