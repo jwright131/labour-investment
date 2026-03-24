@@ -1,0 +1,952 @@
+Province,Year,Wage,Category
+Alberta,2021,33.21,"Total employees, all industries"
+Alberta,2022,33.64,"Total employees, all industries"
+Alberta,2023,34.97,"Total employees, all industries"
+Alberta,2024,36.38,"Total employees, all industries"
+Alberta,2025,37.35,"Total employees, all industries"
+British Columbia,2021,31.3,"Total employees, all industries"
+British Columbia,2022,32.63,"Total employees, all industries"
+British Columbia,2023,34.76,"Total employees, all industries"
+British Columbia,2024,36.65,"Total employees, all industries"
+British Columbia,2025,37.95,"Total employees, all industries"
+Manitoba,2021,27.2,"Total employees, all industries"
+Manitoba,2022,28.09,"Total employees, all industries"
+Manitoba,2023,29.38,"Total employees, all industries"
+Manitoba,2024,30.39,"Total employees, all industries"
+Manitoba,2025,31.63,"Total employees, all industries"
+New Brunswick,2021,25.53,"Total employees, all industries"
+New Brunswick,2022,27.36,"Total employees, all industries"
+New Brunswick,2023,28.72,"Total employees, all industries"
+New Brunswick,2024,30.31,"Total employees, all industries"
+New Brunswick,2025,31.27,"Total employees, all industries"
+Newfoundland and Labrador,2021,28.45,"Total employees, all industries"
+Newfoundland and Labrador,2022,29.4,"Total employees, all industries"
+Newfoundland and Labrador,2023,31.01,"Total employees, all industries"
+Newfoundland and Labrador,2024,32.48,"Total employees, all industries"
+Newfoundland and Labrador,2025,33.42,"Total employees, all industries"
+Nova Scotia,2021,26.06,"Total employees, all industries"
+Nova Scotia,2022,27.41,"Total employees, all industries"
+Nova Scotia,2023,28.87,"Total employees, all industries"
+Nova Scotia,2024,30.79,"Total employees, all industries"
+Nova Scotia,2025,32.39,"Total employees, all industries"
+Ontario,2021,31.66,"Total employees, all industries"
+Ontario,2022,32.97,"Total employees, all industries"
+Ontario,2023,34.63,"Total employees, all industries"
+Ontario,2024,36.44,"Total employees, all industries"
+Ontario,2025,37.72,"Total employees, all industries"
+Prince Edward Island,2021,25.3,"Total employees, all industries"
+Prince Edward Island,2022,26.84,"Total employees, all industries"
+Prince Edward Island,2023,27.94,"Total employees, all industries"
+Prince Edward Island,2024,29.56,"Total employees, all industries"
+Prince Edward Island,2025,30.11,"Total employees, all industries"
+Quebec,2021,29.26,"Total employees, all industries"
+Quebec,2022,30.95,"Total employees, all industries"
+Quebec,2023,32.39,"Total employees, all industries"
+Quebec,2024,33.84,"Total employees, all industries"
+Quebec,2025,35.05,"Total employees, all industries"
+Saskatchewan,2021,29.68,"Total employees, all industries"
+Saskatchewan,2022,30.51,"Total employees, all industries"
+Saskatchewan,2023,31.56,"Total employees, all industries"
+Saskatchewan,2024,32.58,"Total employees, all industries"
+Saskatchewan,2025,33.39,"Total employees, all industries"
+Alberta,2021,38.78,Goods-producing sector
+Alberta,2022,39.36,Goods-producing sector
+Alberta,2023,40.58,Goods-producing sector
+Alberta,2024,42.54,Goods-producing sector
+Alberta,2025,43.61,Goods-producing sector
+British Columbia,2021,33.09,Goods-producing sector
+British Columbia,2022,35.16,Goods-producing sector
+British Columbia,2023,36.88,Goods-producing sector
+British Columbia,2024,38.68,Goods-producing sector
+British Columbia,2025,40.0,Goods-producing sector
+Manitoba,2021,27.71,Goods-producing sector
+Manitoba,2022,28.26,Goods-producing sector
+Manitoba,2023,30.12,Goods-producing sector
+Manitoba,2024,31.0,Goods-producing sector
+Manitoba,2025,32.02,Goods-producing sector
+New Brunswick,2021,26.75,Goods-producing sector
+New Brunswick,2022,27.96,Goods-producing sector
+New Brunswick,2023,29.49,Goods-producing sector
+New Brunswick,2024,31.74,Goods-producing sector
+New Brunswick,2025,31.66,Goods-producing sector
+Newfoundland and Labrador,2021,33.11,Goods-producing sector
+Newfoundland and Labrador,2022,34.56,Goods-producing sector
+Newfoundland and Labrador,2023,37.71,Goods-producing sector
+Newfoundland and Labrador,2024,38.08,Goods-producing sector
+Newfoundland and Labrador,2025,38.98,Goods-producing sector
+Nova Scotia,2021,26.39,Goods-producing sector
+Nova Scotia,2022,27.92,Goods-producing sector
+Nova Scotia,2023,29.87,Goods-producing sector
+Nova Scotia,2024,32.0,Goods-producing sector
+Nova Scotia,2025,31.83,Goods-producing sector
+Ontario,2021,31.18,Goods-producing sector
+Ontario,2022,32.67,Goods-producing sector
+Ontario,2023,35.05,Goods-producing sector
+Ontario,2024,36.64,Goods-producing sector
+Ontario,2025,37.51,Goods-producing sector
+Prince Edward Island,2021,22.94,Goods-producing sector
+Prince Edward Island,2022,24.47,Goods-producing sector
+Prince Edward Island,2023,26.06,Goods-producing sector
+Prince Edward Island,2024,27.42,Goods-producing sector
+Prince Edward Island,2025,27.41,Goods-producing sector
+Quebec,2021,30.11,Goods-producing sector
+Quebec,2022,32.32,Goods-producing sector
+Quebec,2023,34.53,Goods-producing sector
+Quebec,2024,35.35,Goods-producing sector
+Quebec,2025,37.13,Goods-producing sector
+Saskatchewan,2021,33.7,Goods-producing sector
+Saskatchewan,2022,34.65,Goods-producing sector
+Saskatchewan,2023,35.96,Goods-producing sector
+Saskatchewan,2024,37.15,Goods-producing sector
+Saskatchewan,2025,38.15,Goods-producing sector
+Alberta,2021,22.03,Agriculture
+Alberta,2022,22.61,Agriculture
+Alberta,2023,24.03,Agriculture
+Alberta,2024,25.91,Agriculture
+Alberta,2025,27.53,Agriculture
+British Columbia,2021,22.12,Agriculture
+British Columbia,2022,23.63,Agriculture
+British Columbia,2023,22.54,Agriculture
+British Columbia,2024,28.2,Agriculture
+British Columbia,2025,28.4,Agriculture
+Manitoba,2021,21.71,Agriculture
+Manitoba,2022,20.66,Agriculture
+Manitoba,2023,22.47,Agriculture
+Manitoba,2024,24.21,Agriculture
+Manitoba,2025,25.94,Agriculture
+New Brunswick,2021,18.17,Agriculture
+New Brunswick,2022,20.52,Agriculture
+New Brunswick,2023,22.52,Agriculture
+New Brunswick,2024,25.31,Agriculture
+New Brunswick,2025,23.92,Agriculture
+Newfoundland and Labrador,2021,21.49,Agriculture
+Newfoundland and Labrador,2022,20.8,Agriculture
+Newfoundland and Labrador,2023,25.31,Agriculture
+Newfoundland and Labrador,2024,27.45,Agriculture
+Newfoundland and Labrador,2025,26.75,Agriculture
+Nova Scotia,2021,17.54,Agriculture
+Nova Scotia,2022,19.06,Agriculture
+Nova Scotia,2023,24.13,Agriculture
+Nova Scotia,2024,21.89,Agriculture
+Nova Scotia,2025,21.25,Agriculture
+Ontario,2021,21.06,Agriculture
+Ontario,2022,21.62,Agriculture
+Ontario,2023,25.71,Agriculture
+Ontario,2024,24.54,Agriculture
+Ontario,2025,25.21,Agriculture
+Prince Edward Island,2021,19.49,Agriculture
+Prince Edward Island,2022,21.71,Agriculture
+Prince Edward Island,2023,21.4,Agriculture
+Prince Edward Island,2024,21.76,Agriculture
+Prince Edward Island,2025,22.28,Agriculture
+Quebec,2021,19.16,Agriculture
+Quebec,2022,20.79,Agriculture
+Quebec,2023,21.11,Agriculture
+Quebec,2024,23.35,Agriculture
+Quebec,2025,24.66,Agriculture
+Saskatchewan,2021,23.56,Agriculture
+Saskatchewan,2022,23.62,Agriculture
+Saskatchewan,2023,27.04,Agriculture
+Saskatchewan,2024,28.49,Agriculture
+Saskatchewan,2025,28.01,Agriculture
+Alberta,2021,49.36,"Forestry, fishing, mining, quarrying, oil and gas"
+Alberta,2022,49.34,"Forestry, fishing, mining, quarrying, oil and gas"
+Alberta,2023,52.48,"Forestry, fishing, mining, quarrying, oil and gas"
+Alberta,2024,55.54,"Forestry, fishing, mining, quarrying, oil and gas"
+Alberta,2025,58.84,"Forestry, fishing, mining, quarrying, oil and gas"
+British Columbia,2021,44.03,"Forestry, fishing, mining, quarrying, oil and gas"
+British Columbia,2022,42.54,"Forestry, fishing, mining, quarrying, oil and gas"
+British Columbia,2023,45.32,"Forestry, fishing, mining, quarrying, oil and gas"
+British Columbia,2024,50.01,"Forestry, fishing, mining, quarrying, oil and gas"
+British Columbia,2025,48.75,"Forestry, fishing, mining, quarrying, oil and gas"
+Manitoba,2021,38.64,"Forestry, fishing, mining, quarrying, oil and gas"
+Manitoba,2022,40.65,"Forestry, fishing, mining, quarrying, oil and gas"
+Manitoba,2023,37.42,"Forestry, fishing, mining, quarrying, oil and gas"
+Manitoba,2024,39.03,"Forestry, fishing, mining, quarrying, oil and gas"
+Manitoba,2025,43.91,"Forestry, fishing, mining, quarrying, oil and gas"
+New Brunswick,2021,29.51,"Forestry, fishing, mining, quarrying, oil and gas"
+New Brunswick,2022,26.93,"Forestry, fishing, mining, quarrying, oil and gas"
+New Brunswick,2023,34.68,"Forestry, fishing, mining, quarrying, oil and gas"
+New Brunswick,2024,38.63,"Forestry, fishing, mining, quarrying, oil and gas"
+New Brunswick,2025,35.48,"Forestry, fishing, mining, quarrying, oil and gas"
+Newfoundland and Labrador,2021,41.25,"Forestry, fishing, mining, quarrying, oil and gas"
+Newfoundland and Labrador,2022,42.7,"Forestry, fishing, mining, quarrying, oil and gas"
+Newfoundland and Labrador,2023,46.42,"Forestry, fishing, mining, quarrying, oil and gas"
+Newfoundland and Labrador,2024,48.34,"Forestry, fishing, mining, quarrying, oil and gas"
+Newfoundland and Labrador,2025,49.19,"Forestry, fishing, mining, quarrying, oil and gas"
+Nova Scotia,2021,27.91,"Forestry, fishing, mining, quarrying, oil and gas"
+Nova Scotia,2022,31.47,"Forestry, fishing, mining, quarrying, oil and gas"
+Nova Scotia,2023,31.78,"Forestry, fishing, mining, quarrying, oil and gas"
+Nova Scotia,2024,30.9,"Forestry, fishing, mining, quarrying, oil and gas"
+Nova Scotia,2025,28.93,"Forestry, fishing, mining, quarrying, oil and gas"
+Ontario,2021,42.07,"Forestry, fishing, mining, quarrying, oil and gas"
+Ontario,2022,40.5,"Forestry, fishing, mining, quarrying, oil and gas"
+Ontario,2023,44.62,"Forestry, fishing, mining, quarrying, oil and gas"
+Ontario,2024,46.4,"Forestry, fishing, mining, quarrying, oil and gas"
+Ontario,2025,46.65,"Forestry, fishing, mining, quarrying, oil and gas"
+Prince Edward Island,2021,22.94,"Forestry, fishing, mining, quarrying, oil and gas"
+Prince Edward Island,2022,26.28,"Forestry, fishing, mining, quarrying, oil and gas"
+Prince Edward Island,2023,28.26,"Forestry, fishing, mining, quarrying, oil and gas"
+Prince Edward Island,2024,26.66,"Forestry, fishing, mining, quarrying, oil and gas"
+Prince Edward Island,2025,27.99,"Forestry, fishing, mining, quarrying, oil and gas"
+Quebec,2021,36.08,"Forestry, fishing, mining, quarrying, oil and gas"
+Quebec,2022,41.07,"Forestry, fishing, mining, quarrying, oil and gas"
+Quebec,2023,42.4,"Forestry, fishing, mining, quarrying, oil and gas"
+Quebec,2024,43.15,"Forestry, fishing, mining, quarrying, oil and gas"
+Quebec,2025,43.11,"Forestry, fishing, mining, quarrying, oil and gas"
+Saskatchewan,2021,44.16,"Forestry, fishing, mining, quarrying, oil and gas"
+Saskatchewan,2022,44.74,"Forestry, fishing, mining, quarrying, oil and gas"
+Saskatchewan,2023,47.94,"Forestry, fishing, mining, quarrying, oil and gas"
+Saskatchewan,2024,48.2,"Forestry, fishing, mining, quarrying, oil and gas"
+Saskatchewan,2025,51.71,"Forestry, fishing, mining, quarrying, oil and gas"
+Alberta,2021,52.12,Utilities
+Alberta,2022,51.65,Utilities
+Alberta,2023,50.94,Utilities
+Alberta,2024,52.77,Utilities
+Alberta,2025,57.24,Utilities
+British Columbia,2021,46.12,Utilities
+British Columbia,2022,44.84,Utilities
+British Columbia,2023,43.94,Utilities
+British Columbia,2024,49.63,Utilities
+British Columbia,2025,52.72,Utilities
+Manitoba,2021,40.48,Utilities
+Manitoba,2022,41.41,Utilities
+Manitoba,2023,44.19,Utilities
+Manitoba,2024,40.24,Utilities
+Manitoba,2025,43.4,Utilities
+New Brunswick,2021,43.64,Utilities
+New Brunswick,2022,42.51,Utilities
+New Brunswick,2023,45.17,Utilities
+New Brunswick,2024,44.99,Utilities
+New Brunswick,2025,45.91,Utilities
+Newfoundland and Labrador,2021,44.29,Utilities
+Newfoundland and Labrador,2022,43.19,Utilities
+Newfoundland and Labrador,2023,46.46,Utilities
+Newfoundland and Labrador,2024,48.78,Utilities
+Newfoundland and Labrador,2025,51.75,Utilities
+Nova Scotia,2021,38.66,Utilities
+Nova Scotia,2022,40.46,Utilities
+Nova Scotia,2023,39.52,Utilities
+Nova Scotia,2024,42.56,Utilities
+Nova Scotia,2025,45.87,Utilities
+Ontario,2021,48.02,Utilities
+Ontario,2022,49.15,Utilities
+Ontario,2023,50.72,Utilities
+Ontario,2024,57.13,Utilities
+Ontario,2025,59.95,Utilities
+Prince Edward Island,2021,42.95,Utilities
+Prince Edward Island,2022,41.56,Utilities
+Prince Edward Island,2023,44.07,Utilities
+Prince Edward Island,2024,45.47,Utilities
+Prince Edward Island,2025,40.5,Utilities
+Quebec,2021,46.72,Utilities
+Quebec,2022,48.4,Utilities
+Quebec,2023,52.07,Utilities
+Quebec,2024,52.75,Utilities
+Quebec,2025,55.42,Utilities
+Saskatchewan,2021,43.29,Utilities
+Saskatchewan,2022,43.13,Utilities
+Saskatchewan,2023,45.29,Utilities
+Saskatchewan,2024,49.67,Utilities
+Saskatchewan,2025,49.3,Utilities
+Alberta,2021,33.6,Construction
+Alberta,2022,35.9,Construction
+Alberta,2023,37.1,Construction
+Alberta,2024,38.39,Construction
+Alberta,2025,38.59,Construction
+British Columbia,2021,32.42,Construction
+British Columbia,2022,34.34,Construction
+British Columbia,2023,36.78,Construction
+British Columbia,2024,37.58,Construction
+British Columbia,2025,40.15,Construction
+Manitoba,2021,29.14,Construction
+Manitoba,2022,29.44,Construction
+Manitoba,2023,30.39,Construction
+Manitoba,2024,32.86,Construction
+Manitoba,2025,33.46,Construction
+New Brunswick,2021,25.75,Construction
+New Brunswick,2022,27.93,Construction
+New Brunswick,2023,27.48,Construction
+New Brunswick,2024,28.7,Construction
+New Brunswick,2025,31.23,Construction
+Newfoundland and Labrador,2021,29.61,Construction
+Newfoundland and Labrador,2022,30.7,Construction
+Newfoundland and Labrador,2023,32.84,Construction
+Newfoundland and Labrador,2024,33.11,Construction
+Newfoundland and Labrador,2025,33.61,Construction
+Nova Scotia,2021,26.23,Construction
+Nova Scotia,2022,27.47,Construction
+Nova Scotia,2023,29.06,Construction
+Nova Scotia,2024,30.58,Construction
+Nova Scotia,2025,31.08,Construction
+Ontario,2021,32.66,Construction
+Ontario,2022,33.92,Construction
+Ontario,2023,35.87,Construction
+Ontario,2024,37.49,Construction
+Ontario,2025,38.43,Construction
+Prince Edward Island,2021,23.87,Construction
+Prince Edward Island,2022,24.27,Construction
+Prince Edward Island,2023,26.09,Construction
+Prince Edward Island,2024,27.76,Construction
+Prince Edward Island,2025,28.41,Construction
+Quebec,2021,31.94,Construction
+Quebec,2022,34.28,Construction
+Quebec,2023,35.9,Construction
+Quebec,2024,36.46,Construction
+Quebec,2025,38.08,Construction
+Saskatchewan,2021,30.71,Construction
+Saskatchewan,2022,32.26,Construction
+Saskatchewan,2023,32.68,Construction
+Saskatchewan,2024,34.36,Construction
+Saskatchewan,2025,32.99,Construction
+Alberta,2021,34.47,Manufacturing
+Alberta,2022,34.88,Manufacturing
+Alberta,2023,35.48,Manufacturing
+Alberta,2024,35.84,Manufacturing
+Alberta,2025,36.44,Manufacturing
+British Columbia,2021,30.6,Manufacturing
+British Columbia,2022,34.33,Manufacturing
+British Columbia,2023,35.17,Manufacturing
+British Columbia,2024,36.24,Manufacturing
+British Columbia,2025,37.57,Manufacturing
+Manitoba,2021,25.99,Manufacturing
+Manitoba,2022,26.64,Manufacturing
+Manitoba,2023,28.8,Manufacturing
+Manitoba,2024,29.07,Manufacturing
+Manitoba,2025,29.63,Manufacturing
+New Brunswick,2021,25.86,Manufacturing
+New Brunswick,2022,27.39,Manufacturing
+New Brunswick,2023,28.61,Manufacturing
+New Brunswick,2024,31.69,Manufacturing
+New Brunswick,2025,30.26,Manufacturing
+Newfoundland and Labrador,2021,26.51,Manufacturing
+Newfoundland and Labrador,2022,28.59,Manufacturing
+Newfoundland and Labrador,2023,31.38,Manufacturing
+Newfoundland and Labrador,2024,29.28,Manufacturing
+Newfoundland and Labrador,2025,30.5,Manufacturing
+Nova Scotia,2021,25.48,Manufacturing
+Nova Scotia,2022,26.69,Manufacturing
+Nova Scotia,2023,29.89,Manufacturing
+Nova Scotia,2024,32.97,Manufacturing
+Nova Scotia,2025,32.12,Manufacturing
+Ontario,2021,29.23,Manufacturing
+Ontario,2022,30.87,Manufacturing
+Ontario,2023,33.24,Manufacturing
+Ontario,2024,34.74,Manufacturing
+Ontario,2025,35.17,Manufacturing
+Prince Edward Island,2021,22.52,Manufacturing
+Prince Edward Island,2022,24.61,Manufacturing
+Prince Edward Island,2023,26.96,Manufacturing
+Prince Edward Island,2024,28.27,Manufacturing
+Prince Edward Island,2025,27.44,Manufacturing
+Quebec,2021,28.49,Manufacturing
+Quebec,2022,30.31,Manufacturing
+Quebec,2023,32.87,Manufacturing
+Quebec,2024,33.79,Manufacturing
+Quebec,2025,35.62,Manufacturing
+Saskatchewan,2021,30.85,Manufacturing
+Saskatchewan,2022,32.77,Manufacturing
+Saskatchewan,2023,32.47,Manufacturing
+Saskatchewan,2024,32.87,Manufacturing
+Saskatchewan,2025,35.11,Manufacturing
+Alberta,2021,31.52,Services-producing sector
+Alberta,2022,31.96,Services-producing sector
+Alberta,2023,33.25,Services-producing sector
+Alberta,2024,34.42,Services-producing sector
+Alberta,2025,35.44,Services-producing sector
+British Columbia,2021,30.9,Services-producing sector
+British Columbia,2022,32.07,Services-producing sector
+British Columbia,2023,34.32,Services-producing sector
+British Columbia,2024,36.22,Services-producing sector
+British Columbia,2025,37.5,Services-producing sector
+Manitoba,2021,27.06,Services-producing sector
+Manitoba,2022,28.05,Services-producing sector
+Manitoba,2023,29.18,Services-producing sector
+Manitoba,2024,30.23,Services-producing sector
+Manitoba,2025,31.53,Services-producing sector
+New Brunswick,2021,25.24,Services-producing sector
+New Brunswick,2022,27.21,Services-producing sector
+New Brunswick,2023,28.54,Services-producing sector
+New Brunswick,2024,29.95,Services-producing sector
+New Brunswick,2025,31.17,Services-producing sector
+Newfoundland and Labrador,2021,27.29,Services-producing sector
+Newfoundland and Labrador,2022,28.13,Services-producing sector
+Newfoundland and Labrador,2023,29.28,Services-producing sector
+Newfoundland and Labrador,2024,31.07,Services-producing sector
+Newfoundland and Labrador,2025,32.14,Services-producing sector
+Nova Scotia,2021,25.98,Services-producing sector
+Nova Scotia,2022,27.29,Services-producing sector
+Nova Scotia,2023,28.66,Services-producing sector
+Nova Scotia,2024,30.54,Services-producing sector
+Nova Scotia,2025,32.51,Services-producing sector
+Ontario,2021,31.77,Services-producing sector
+Ontario,2022,33.04,Services-producing sector
+Ontario,2023,34.52,Services-producing sector
+Ontario,2024,36.39,Services-producing sector
+Ontario,2025,37.76,Services-producing sector
+Prince Edward Island,2021,25.95,Services-producing sector
+Prince Edward Island,2022,27.58,Services-producing sector
+Prince Edward Island,2023,28.49,Services-producing sector
+Prince Edward Island,2024,30.19,Services-producing sector
+Prince Edward Island,2025,30.93,Services-producing sector
+Quebec,2021,29.03,Services-producing sector
+Quebec,2022,30.58,Services-producing sector
+Quebec,2023,31.81,Services-producing sector
+Quebec,2024,33.43,Services-producing sector
+Quebec,2025,34.5,Services-producing sector
+Saskatchewan,2021,28.67,Services-producing sector
+Saskatchewan,2022,29.5,Services-producing sector
+Saskatchewan,2023,30.49,Services-producing sector
+Saskatchewan,2024,31.51,Services-producing sector
+Saskatchewan,2025,32.24,Services-producing sector
+Alberta,2021,25.2,Wholesale and retail trade
+Alberta,2022,25.9,Wholesale and retail trade
+Alberta,2023,26.69,Wholesale and retail trade
+Alberta,2024,27.27,Wholesale and retail trade
+Alberta,2025,29.02,Wholesale and retail trade
+British Columbia,2021,24.52,Wholesale and retail trade
+British Columbia,2022,25.95,Wholesale and retail trade
+British Columbia,2023,27.55,Wholesale and retail trade
+British Columbia,2024,28.51,Wholesale and retail trade
+British Columbia,2025,28.61,Wholesale and retail trade
+Manitoba,2021,21.55,Wholesale and retail trade
+Manitoba,2022,22.68,Wholesale and retail trade
+Manitoba,2023,23.95,Wholesale and retail trade
+Manitoba,2024,24.89,Wholesale and retail trade
+Manitoba,2025,25.64,Wholesale and retail trade
+New Brunswick,2021,19.56,Wholesale and retail trade
+New Brunswick,2022,19.68,Wholesale and retail trade
+New Brunswick,2023,22.06,Wholesale and retail trade
+New Brunswick,2024,23.5,Wholesale and retail trade
+New Brunswick,2025,23.67,Wholesale and retail trade
+Newfoundland and Labrador,2021,20.03,Wholesale and retail trade
+Newfoundland and Labrador,2022,19.94,Wholesale and retail trade
+Newfoundland and Labrador,2023,21.16,Wholesale and retail trade
+Newfoundland and Labrador,2024,22.29,Wholesale and retail trade
+Newfoundland and Labrador,2025,23.99,Wholesale and retail trade
+Nova Scotia,2021,19.45,Wholesale and retail trade
+Nova Scotia,2022,20.06,Wholesale and retail trade
+Nova Scotia,2023,22.03,Wholesale and retail trade
+Nova Scotia,2024,23.09,Wholesale and retail trade
+Nova Scotia,2025,24.52,Wholesale and retail trade
+Ontario,2021,24.27,Wholesale and retail trade
+Ontario,2022,25.4,Wholesale and retail trade
+Ontario,2023,26.74,Wholesale and retail trade
+Ontario,2024,28.07,Wholesale and retail trade
+Ontario,2025,28.46,Wholesale and retail trade
+Prince Edward Island,2021,18.46,Wholesale and retail trade
+Prince Edward Island,2022,19.3,Wholesale and retail trade
+Prince Edward Island,2023,21.01,Wholesale and retail trade
+Prince Edward Island,2024,21.75,Wholesale and retail trade
+Prince Edward Island,2025,22.85,Wholesale and retail trade
+Quebec,2021,22.2,Wholesale and retail trade
+Quebec,2022,23.89,Wholesale and retail trade
+Quebec,2023,24.89,Wholesale and retail trade
+Quebec,2024,26.12,Wholesale and retail trade
+Quebec,2025,26.19,Wholesale and retail trade
+Saskatchewan,2021,23.11,Wholesale and retail trade
+Saskatchewan,2022,23.65,Wholesale and retail trade
+Saskatchewan,2023,24.7,Wholesale and retail trade
+Saskatchewan,2024,26.32,Wholesale and retail trade
+Saskatchewan,2025,26.12,Wholesale and retail trade
+Alberta,2021,33.34,Transportation and warehousing
+Alberta,2022,32.06,Transportation and warehousing
+Alberta,2023,34.79,Transportation and warehousing
+Alberta,2024,36.02,Transportation and warehousing
+Alberta,2025,37.83,Transportation and warehousing
+British Columbia,2021,32.94,Transportation and warehousing
+British Columbia,2022,33.03,Transportation and warehousing
+British Columbia,2023,36.48,Transportation and warehousing
+British Columbia,2024,36.75,Transportation and warehousing
+British Columbia,2025,38.39,Transportation and warehousing
+Manitoba,2021,28.17,Transportation and warehousing
+Manitoba,2022,29.34,Transportation and warehousing
+Manitoba,2023,29.11,Transportation and warehousing
+Manitoba,2024,30.21,Transportation and warehousing
+Manitoba,2025,32.78,Transportation and warehousing
+New Brunswick,2021,23.79,Transportation and warehousing
+New Brunswick,2022,26.02,Transportation and warehousing
+New Brunswick,2023,27.38,Transportation and warehousing
+New Brunswick,2024,28.47,Transportation and warehousing
+New Brunswick,2025,30.46,Transportation and warehousing
+Newfoundland and Labrador,2021,30.44,Transportation and warehousing
+Newfoundland and Labrador,2022,27.89,Transportation and warehousing
+Newfoundland and Labrador,2023,29.12,Transportation and warehousing
+Newfoundland and Labrador,2024,34.35,Transportation and warehousing
+Newfoundland and Labrador,2025,34.79,Transportation and warehousing
+Nova Scotia,2021,25.78,Transportation and warehousing
+Nova Scotia,2022,27.76,Transportation and warehousing
+Nova Scotia,2023,28.03,Transportation and warehousing
+Nova Scotia,2024,30.8,Transportation and warehousing
+Nova Scotia,2025,31.69,Transportation and warehousing
+Ontario,2021,29.2,Transportation and warehousing
+Ontario,2022,29.9,Transportation and warehousing
+Ontario,2023,31.63,Transportation and warehousing
+Ontario,2024,33.24,Transportation and warehousing
+Ontario,2025,33.43,Transportation and warehousing
+Prince Edward Island,2021,24.03,Transportation and warehousing
+Prince Edward Island,2022,26.57,Transportation and warehousing
+Prince Edward Island,2023,25.21,Transportation and warehousing
+Prince Edward Island,2024,26.73,Transportation and warehousing
+Prince Edward Island,2025,28.07,Transportation and warehousing
+Quebec,2021,28.53,Transportation and warehousing
+Quebec,2022,29.41,Transportation and warehousing
+Quebec,2023,29.99,Transportation and warehousing
+Quebec,2024,31.47,Transportation and warehousing
+Quebec,2025,31.45,Transportation and warehousing
+Saskatchewan,2021,30.38,Transportation and warehousing
+Saskatchewan,2022,30.99,Transportation and warehousing
+Saskatchewan,2023,30.61,Transportation and warehousing
+Saskatchewan,2024,32.18,Transportation and warehousing
+Saskatchewan,2025,32.01,Transportation and warehousing
+Alberta,2021,36.27,"Finance, insurance, real estate, rental and leasing"
+Alberta,2022,38.69,"Finance, insurance, real estate, rental and leasing"
+Alberta,2023,39.19,"Finance, insurance, real estate, rental and leasing"
+Alberta,2024,43.22,"Finance, insurance, real estate, rental and leasing"
+Alberta,2025,43.23,"Finance, insurance, real estate, rental and leasing"
+British Columbia,2021,35.92,"Finance, insurance, real estate, rental and leasing"
+British Columbia,2022,37.53,"Finance, insurance, real estate, rental and leasing"
+British Columbia,2023,40.75,"Finance, insurance, real estate, rental and leasing"
+British Columbia,2024,40.62,"Finance, insurance, real estate, rental and leasing"
+British Columbia,2025,43.63,"Finance, insurance, real estate, rental and leasing"
+
+Manitoba,2021,32.51,"Finance, insurance, real estate, rental and leasing"
+Manitoba,2022,33.37,"Finance, insurance, real estate, rental and leasing"
+Manitoba,2023,34.04,"Finance, insurance, real estate, rental and leasing"
+Manitoba,2024,35.31,"Finance, insurance, real estate, rental and leasing"
+Manitoba,2025,37.05,"Finance, insurance, real estate, rental and leasing"
+New Brunswick,2021,28.89,"Finance, insurance, real estate, rental and leasing"
+New Brunswick,2022,29.86,"Finance, insurance, real estate, rental and leasing"
+New Brunswick,2023,33.03,"Finance, insurance, real estate, rental and leasing"
+New Brunswick,2024,31.96,"Finance, insurance, real estate, rental and leasing"
+New Brunswick,2025,33.33,"Finance, insurance, real estate, rental and leasing"
+Newfoundland and Labrador,2021,28.94,"Finance, insurance, real estate, rental and leasing"
+Newfoundland and Labrador,2022,32.68,"Finance, insurance, real estate, rental and leasing"
+Newfoundland and Labrador,2023,33.84,"Finance, insurance, real estate, rental and leasing"
+Newfoundland and Labrador,2024,34.78,"Finance, insurance, real estate, rental and leasing"
+Newfoundland and Labrador,2025,35.53,"Finance, insurance, real estate, rental and leasing"
+Nova Scotia,2021,28.45,"Finance, insurance, real estate, rental and leasing"
+Nova Scotia,2022,30.26,"Finance, insurance, real estate, rental and leasing"
+Nova Scotia,2023,32.88,"Finance, insurance, real estate, rental and leasing"
+Nova Scotia,2024,33.05,"Finance, insurance, real estate, rental and leasing"
+Nova Scotia,2025,37.17,"Finance, insurance, real estate, rental and leasing"
+Ontario,2021,39.82,"Finance, insurance, real estate, rental and leasing"
+Ontario,2022,41.03,"Finance, insurance, real estate, rental and leasing"
+Ontario,2023,43.25,"Finance, insurance, real estate, rental and leasing"
+Ontario,2024,44.99,"Finance, insurance, real estate, rental and leasing"
+Ontario,2025,46.39,"Finance, insurance, real estate, rental and leasing"
+Prince Edward Island,2021,26.2,"Finance, insurance, real estate, rental and leasing"
+Prince Edward Island,2022,30.76,"Finance, insurance, real estate, rental and leasing"
+Prince Edward Island,2023,31.32,"Finance, insurance, real estate, rental and leasing"
+Prince Edward Island,2024,33.04,"Finance, insurance, real estate, rental and leasing"
+Prince Edward Island,2025,30.98,"Finance, insurance, real estate, rental and leasing"
+Quebec,2021,35.96,"Finance, insurance, real estate, rental and leasing"
+Quebec,2022,37.1,"Finance, insurance, real estate, rental and leasing"
+Quebec,2023,39.29,"Finance, insurance, real estate, rental and leasing"
+Quebec,2024,42.32,"Finance, insurance, real estate, rental and leasing"
+Quebec,2025,43.56,"Finance, insurance, real estate, rental and leasing"
+Saskatchewan,2021,35.22,"Finance, insurance, real estate, rental and leasing"
+Saskatchewan,2022,35.36,"Finance, insurance, real estate, rental and leasing"
+Saskatchewan,2023,36.28,"Finance, insurance, real estate, rental and leasing"
+Saskatchewan,2024,38.84,"Finance, insurance, real estate, rental and leasing"
+Saskatchewan,2025,38.07,"Finance, insurance, real estate, rental and leasing"
+Alberta,2021,40.65,"Professional, scientific and technical services"
+Alberta,2022,41.88,"Professional, scientific and technical services"
+Alberta,2023,44.43,"Professional, scientific and technical services"
+Alberta,2024,47.65,"Professional, scientific and technical services"
+Alberta,2025,47.53,"Professional, scientific and technical services"
+British Columbia,2021,40.55,"Professional, scientific and technical services"
+British Columbia,2022,43.37,"Professional, scientific and technical services"
+British Columbia,2023,46.57,"Professional, scientific and technical services"
+British Columbia,2024,50.92,"Professional, scientific and technical services"
+British Columbia,2025,49.73,"Professional, scientific and technical services"
+Manitoba,2021,32.79,"Professional, scientific and technical services"
+Manitoba,2022,34.41,"Professional, scientific and technical services"
+Manitoba,2023,36.79,"Professional, scientific and technical services"
+Manitoba,2024,37.24,"Professional, scientific and technical services"
+Manitoba,2025,38.75,"Professional, scientific and technical services"
+New Brunswick,2021,30.47,"Professional, scientific and technical services"
+New Brunswick,2022,37.21,"Professional, scientific and technical services"
+New Brunswick,2023,37.58,"Professional, scientific and technical services"
+New Brunswick,2024,39.02,"Professional, scientific and technical services"
+New Brunswick,2025,39.07,"Professional, scientific and technical services"
+Newfoundland and Labrador,2021,33.99,"Professional, scientific and technical services"
+Newfoundland and Labrador,2022,38.67,"Professional, scientific and technical services"
+Newfoundland and Labrador,2023,39.9,"Professional, scientific and technical services"
+Newfoundland and Labrador,2024,42.1,"Professional, scientific and technical services"
+Newfoundland and Labrador,2025,44.11,"Professional, scientific and technical services"
+Nova Scotia,2021,33.59,"Professional, scientific and technical services"
+Nova Scotia,2022,36.94,"Professional, scientific and technical services"
+Nova Scotia,2023,38.93,"Professional, scientific and technical services"
+Nova Scotia,2024,43.47,"Professional, scientific and technical services"
+Nova Scotia,2025,43.01,"Professional, scientific and technical services"
+Ontario,2021,39.98,"Professional, scientific and technical services"
+Ontario,2022,43.52,"Professional, scientific and technical services"
+Ontario,2023,46.41,"Professional, scientific and technical services"
+Ontario,2024,49.67,"Professional, scientific and technical services"
+Ontario,2025,51.41,"Professional, scientific and technical services"
+Prince Edward Island,2021,29.8,"Professional, scientific and technical services"
+Prince Edward Island,2022,31.75,"Professional, scientific and technical services"
+Prince Edward Island,2023,32.29,"Professional, scientific and technical services"
+Prince Edward Island,2024,34.94,"Professional, scientific and technical services"
+Prince Edward Island,2025,37.23,"Professional, scientific and technical services"
+Quebec,2021,34.88,"Professional, scientific and technical services"
+Quebec,2022,38.33,"Professional, scientific and technical services"
+Quebec,2023,40.21,"Professional, scientific and technical services"
+Quebec,2024,43.04,"Professional, scientific and technical services"
+Quebec,2025,44.76,"Professional, scientific and technical services"
+Saskatchewan,2021,33.01,"Professional, scientific and technical services"
+Saskatchewan,2022,37.07,"Professional, scientific and technical services"
+Saskatchewan,2023,39.13,"Professional, scientific and technical services"
+Saskatchewan,2024,39.56,"Professional, scientific and technical services"
+Saskatchewan,2025,42.29,"Professional, scientific and technical services"
+Alberta,2021,25.11,"Business, building and other support services"
+Alberta,2022,25.44,"Business, building and other support services"
+Alberta,2023,27.0,"Business, building and other support services"
+Alberta,2024,28.46,"Business, building and other support services"
+Alberta,2025,29.12,"Business, building and other support services"
+British Columbia,2021,25.31,"Business, building and other support services"
+British Columbia,2022,25.76,"Business, building and other support services"
+British Columbia,2023,27.24,"Business, building and other support services"
+British Columbia,2024,29.04,"Business, building and other support services"
+British Columbia,2025,30.68,"Business, building and other support services"
+Manitoba,2021,19.46,"Business, building and other support services"
+Manitoba,2022,21.1,"Business, building and other support services"
+Manitoba,2023,21.15,"Business, building and other support services"
+Manitoba,2024,23.8,"Business, building and other support services"
+Manitoba,2025,24.0,"Business, building and other support services"
+New Brunswick,2021,20.33,"Business, building and other support services"
+New Brunswick,2022,21.29,"Business, building and other support services"
+New Brunswick,2023,21.68,"Business, building and other support services"
+New Brunswick,2024,21.92,"Business, building and other support services"
+New Brunswick,2025,25.87,"Business, building and other support services"
+Newfoundland and Labrador,2021,22.72,"Business, building and other support services"
+Newfoundland and Labrador,2022,24.0,"Business, building and other support services"
+Newfoundland and Labrador,2023,26.37,"Business, building and other support services"
+Newfoundland and Labrador,2024,26.04,"Business, building and other support services"
+Newfoundland and Labrador,2025,25.46,"Business, building and other support services"
+Nova Scotia,2021,18.78,"Business, building and other support services"
+Nova Scotia,2022,20.64,"Business, building and other support services"
+Nova Scotia,2023,21.63,"Business, building and other support services"
+Nova Scotia,2024,22.9,"Business, building and other support services"
+Nova Scotia,2025,24.48,"Business, building and other support services"
+Ontario,2021,23.9,"Business, building and other support services"
+Ontario,2022,25.27,"Business, building and other support services"
+Ontario,2023,26.56,"Business, building and other support services"
+Ontario,2024,26.19,"Business, building and other support services"
+Ontario,2025,29.13,"Business, building and other support services"
+Prince Edward Island,2021,16.66,"Business, building and other support services"
+Prince Edward Island,2022,19.64,"Business, building and other support services"
+Prince Edward Island,2023,19.67,"Business, building and other support services"
+Prince Edward Island,2024,23.21,"Business, building and other support services"
+Prince Edward Island,2025,23.21,"Business, building and other support services"
+Quebec,2021,22.91,"Business, building and other support services"
+Quebec,2022,25.17,"Business, building and other support services"
+Quebec,2023,25.48,"Business, building and other support services"
+Quebec,2024,27.7,"Business, building and other support services"
+Quebec,2025,28.52,"Business, building and other support services"
+Saskatchewan,2021,22.46,"Business, building and other support services"
+Saskatchewan,2022,22.12,"Business, building and other support services"
+Saskatchewan,2023,24.17,"Business, building and other support services"
+Saskatchewan,2024,24.98,"Business, building and other support services"
+Saskatchewan,2025,23.16,"Business, building and other support services"
+Alberta,2021,37.07,Educational services
+Alberta,2022,37.09,Educational services
+Alberta,2023,38.33,Educational services
+Alberta,2024,38.46,Educational services
+Alberta,2025,40.27,Educational services
+British Columbia,2021,34.67,Educational services
+British Columbia,2022,35.69,Educational services
+British Columbia,2023,38.77,Educational services
+British Columbia,2024,40.97,Educational services
+British Columbia,2025,43.32,Educational services
+Manitoba,2021,33.59,Educational services
+Manitoba,2022,33.95,Educational services
+Manitoba,2023,34.82,Educational services
+Manitoba,2024,36.09,Educational services
+Manitoba,2025,37.06,Educational services
+New Brunswick,2021,31.52,Educational services
+New Brunswick,2022,34.52,Educational services
+New Brunswick,2023,33.43,Educational services
+New Brunswick,2024,35.68,Educational services
+New Brunswick,2025,35.16,Educational services
+Newfoundland and Labrador,2021,38.58,Educational services
+Newfoundland and Labrador,2022,39.96,Educational services
+Newfoundland and Labrador,2023,41.1,Educational services
+Newfoundland and Labrador,2024,42.84,Educational services
+Newfoundland and Labrador,2025,41.49,Educational services
+Nova Scotia,2021,32.0,Educational services
+Nova Scotia,2022,32.75,Educational services
+Nova Scotia,2023,33.3,Educational services
+Nova Scotia,2024,34.73,Educational services
+Nova Scotia,2025,37.55,Educational services
+Ontario,2021,38.73,Educational services
+Ontario,2022,39.43,Educational services
+Ontario,2023,39.89,Educational services
+Ontario,2024,41.24,Educational services
+Ontario,2025,43.38,Educational services
+Prince Edward Island,2021,34.85,Educational services
+Prince Edward Island,2022,33.3,Educational services
+Prince Edward Island,2023,33.82,Educational services
+Prince Edward Island,2024,37.44,Educational services
+Prince Edward Island,2025,36.22,Educational services
+Quebec,2021,36.06,Educational services
+Quebec,2022,37.16,Educational services
+Quebec,2023,39.05,Educational services
+Quebec,2024,40.93,Educational services
+Quebec,2025,43.7,Educational services
+Saskatchewan,2021,35.37,Educational services
+Saskatchewan,2022,36.27,Educational services
+Saskatchewan,2023,36.78,Educational services
+Saskatchewan,2024,37.74,Educational services
+Saskatchewan,2025,38.22,Educational services
+Alberta,2021,32.36,Health care and social assistance
+Alberta,2022,32.48,Health care and social assistance
+Alberta,2023,33.87,Health care and social assistance
+Alberta,2024,34.56,Health care and social assistance
+Alberta,2025,35.5,Health care and social assistance
+British Columbia,2021,31.35,Health care and social assistance
+British Columbia,2022,31.72,Health care and social assistance
+British Columbia,2023,34.22,Health care and social assistance
+British Columbia,2024,36.25,Health care and social assistance
+British Columbia,2025,38.24,Health care and social assistance
+Manitoba,2021,27.52,Health care and social assistance
+Manitoba,2022,28.16,Health care and social assistance
+Manitoba,2023,29.49,Health care and social assistance
+Manitoba,2024,29.99,Health care and social assistance
+Manitoba,2025,31.89,Health care and social assistance
+New Brunswick,2021,26.39,Health care and social assistance
+New Brunswick,2022,27.99,Health care and social assistance
+New Brunswick,2023,28.77,Health care and social assistance
+New Brunswick,2024,30.11,Health care and social assistance
+New Brunswick,2025,32.57,Health care and social assistance
+Newfoundland and Labrador,2021,28.03,Health care and social assistance
+Newfoundland and Labrador,2022,28.57,Health care and social assistance
+Newfoundland and Labrador,2023,29.3,Health care and social assistance
+Newfoundland and Labrador,2024,29.83,Health care and social assistance
+Newfoundland and Labrador,2025,32.36,Health care and social assistance
+Nova Scotia,2021,26.82,Health care and social assistance
+Nova Scotia,2022,28.3,Health care and social assistance
+Nova Scotia,2023,29.06,Health care and social assistance
+Nova Scotia,2024,31.63,Health care and social assistance
+Nova Scotia,2025,34.39,Health care and social assistance
+Ontario,2021,30.03,Health care and social assistance
+Ontario,2022,31.28,Health care and social assistance
+Ontario,2023,32.49,Health care and social assistance
+Ontario,2024,34.41,Health care and social assistance
+Ontario,2025,35.93,Health care and social assistance
+Prince Edward Island,2021,27.31,Health care and social assistance
+Prince Edward Island,2022,30.14,Health care and social assistance
+Prince Edward Island,2023,29.84,Health care and social assistance
+Prince Edward Island,2024,31.82,Health care and social assistance
+Prince Edward Island,2025,33.86,Health care and social assistance
+Quebec,2021,27.5,Health care and social assistance
+Quebec,2022,29.45,Health care and social assistance
+Quebec,2023,30.28,Health care and social assistance
+Quebec,2024,31.53,Health care and social assistance
+Quebec,2025,32.16,Health care and social assistance
+Saskatchewan,2021,29.71,Health care and social assistance
+Saskatchewan,2022,31.03,Health care and social assistance
+Saskatchewan,2023,31.75,Health care and social assistance
+Saskatchewan,2024,31.51,Health care and social assistance
+Saskatchewan,2025,32.42,Health care and social assistance
+Alberta,2021,29.71,"Information, culture and recreation"
+Alberta,2022,30.47,"Information, culture and recreation"
+Alberta,2023,27.61,"Information, culture and recreation"
+Alberta,2024,26.99,"Information, culture and recreation"
+Alberta,2025,29.18,"Information, culture and recreation"
+British Columbia,2021,33.92,"Information, culture and recreation"
+British Columbia,2022,33.13,"Information, culture and recreation"
+British Columbia,2023,34.29,"Information, culture and recreation"
+British Columbia,2024,36.47,"Information, culture and recreation"
+British Columbia,2025,36.39,"Information, culture and recreation"
+Manitoba,2021,25.95,"Information, culture and recreation"
+Manitoba,2022,24.7,"Information, culture and recreation"
+Manitoba,2023,27.23,"Information, culture and recreation"
+Manitoba,2024,26.59,"Information, culture and recreation"
+Manitoba,2025,27.68,"Information, culture and recreation"
+New Brunswick,2021,25.61,"Information, culture and recreation"
+New Brunswick,2022,24.39,"Information, culture and recreation"
+New Brunswick,2023,26.67,"Information, culture and recreation"
+New Brunswick,2024,26.64,"Information, culture and recreation"
+New Brunswick,2025,29.8,"Information, culture and recreation"
+Newfoundland and Labrador,2021,24.23,"Information, culture and recreation"
+Newfoundland and Labrador,2022,25.71,"Information, culture and recreation"
+Newfoundland and Labrador,2023,26.72,"Information, culture and recreation"
+Newfoundland and Labrador,2024,27.6,"Information, culture and recreation"
+Newfoundland and Labrador,2025,27.96,"Information, culture and recreation"
+Nova Scotia,2021,25.18,"Information, culture and recreation"
+Nova Scotia,2022,25.96,"Information, culture and recreation"
+Nova Scotia,2023,28.02,"Information, culture and recreation"
+Nova Scotia,2024,27.15,"Information, culture and recreation"
+Nova Scotia,2025,30.89,"Information, culture and recreation"
+Ontario,2021,32.28,"Information, culture and recreation"
+Ontario,2022,32.53,"Information, culture and recreation"
+Ontario,2023,32.16,"Information, culture and recreation"
+Ontario,2024,33.4,"Information, culture and recreation"
+Ontario,2025,36.46,"Information, culture and recreation"
+Prince Edward Island,2021,23.15,"Information, culture and recreation"
+Prince Edward Island,2022,23.38,"Information, culture and recreation"
+Prince Edward Island,2023,23.59,"Information, culture and recreation"
+Prince Edward Island,2024,23.85,"Information, culture and recreation"
+Prince Edward Island,2025,24.04,"Information, culture and recreation"
+Quebec,2021,30.15,"Information, culture and recreation"
+Quebec,2022,30.7,"Information, culture and recreation"
+Quebec,2023,31.1,"Information, culture and recreation"
+Quebec,2024,32.19,"Information, culture and recreation"
+Quebec,2025,33.46,"Information, culture and recreation"
+Saskatchewan,2021,26.98,"Information, culture and recreation"
+Saskatchewan,2022,25.4,"Information, culture and recreation"
+Saskatchewan,2023,27.84,"Information, culture and recreation"
+Saskatchewan,2024,27.91,"Information, culture and recreation"
+Saskatchewan,2025,30.33,"Information, culture and recreation"
+Alberta,2021,18.06,Accommodation and food services
+Alberta,2022,18.36,Accommodation and food services
+Alberta,2023,19.1,Accommodation and food services
+Alberta,2024,20.26,Accommodation and food services
+Alberta,2025,19.61,Accommodation and food services
+British Columbia,2021,18.88,Accommodation and food services
+British Columbia,2022,20.19,Accommodation and food services
+British Columbia,2023,21.8,Accommodation and food services
+British Columbia,2024,22.29,Accommodation and food services
+British Columbia,2025,23.45,Accommodation and food services
+Manitoba,2021,14.95,Accommodation and food services
+Manitoba,2022,15.53,Accommodation and food services
+Manitoba,2023,17.4,Accommodation and food services
+Manitoba,2024,18.53,Accommodation and food services
+Manitoba,2025,18.87,Accommodation and food services
+New Brunswick,2021,14.54,Accommodation and food services
+New Brunswick,2022,15.71,Accommodation and food services
+New Brunswick,2023,17.28,Accommodation and food services
+New Brunswick,2024,17.85,Accommodation and food services
+New Brunswick,2025,18.65,Accommodation and food services
+Newfoundland and Labrador,2021,15.49,Accommodation and food services
+Newfoundland and Labrador,2022,16.48,Accommodation and food services
+Newfoundland and Labrador,2023,17.0,Accommodation and food services
+Newfoundland and Labrador,2024,18.44,Accommodation and food services
+Newfoundland and Labrador,2025,19.24,Accommodation and food services
+Nova Scotia,2021,15.49,Accommodation and food services
+Nova Scotia,2022,16.31,Accommodation and food services
+Nova Scotia,2023,17.83,Accommodation and food services
+Nova Scotia,2024,18.76,Accommodation and food services
+Nova Scotia,2025,19.48,Accommodation and food services
+Ontario,2021,17.34,Accommodation and food services
+Ontario,2022,18.86,Accommodation and food services
+Ontario,2023,19.46,Accommodation and food services
+Ontario,2024,20.49,Accommodation and food services
+Ontario,2025,21.15,Accommodation and food services
+Prince Edward Island,2021,15.59,Accommodation and food services
+Prince Edward Island,2022,16.89,Accommodation and food services
+Prince Edward Island,2023,17.97,Accommodation and food services
+Prince Edward Island,2024,19.06,Accommodation and food services
+Prince Edward Island,2025,18.88,Accommodation and food services
+Quebec,2021,17.02,Accommodation and food services
+Quebec,2022,18.11,Accommodation and food services
+Quebec,2023,20.25,Accommodation and food services
+Quebec,2024,21.03,Accommodation and food services
+Quebec,2025,20.96,Accommodation and food services
+Saskatchewan,2021,15.24,Accommodation and food services
+Saskatchewan,2022,15.85,Accommodation and food services
+Saskatchewan,2023,16.34,Accommodation and food services
+Saskatchewan,2024,17.39,Accommodation and food services
+Saskatchewan,2025,18.09,Accommodation and food services
+Alberta,2021,28.56,Other services (except public administration)
+Alberta,2022,28.22,Other services (except public administration)
+Alberta,2023,29.91,Other services (except public administration)
+Alberta,2024,29.92,Other services (except public administration)
+Alberta,2025,31.74,Other services (except public administration)
+British Columbia,2021,27.38,Other services (except public administration)
+British Columbia,2022,29.42,Other services (except public administration)
+British Columbia,2023,30.25,Other services (except public administration)
+British Columbia,2024,32.25,Other services (except public administration)
+British Columbia,2025,33.15,Other services (except public administration)
+Manitoba,2021,25.19,Other services (except public administration)
+Manitoba,2022,25.52,Other services (except public administration)
+Manitoba,2023,25.83,Other services (except public administration)
+Manitoba,2024,27.03,Other services (except public administration)
+Manitoba,2025,28.85,Other services (except public administration)
+New Brunswick,2021,22.09,Other services (except public administration)
+New Brunswick,2022,22.41,Other services (except public administration)
+New Brunswick,2023,25.67,Other services (except public administration)
+New Brunswick,2024,27.12,Other services (except public administration)
+New Brunswick,2025,27.79,Other services (except public administration)
+Newfoundland and Labrador,2021,23.64,Other services (except public administration)
+Newfoundland and Labrador,2022,23.31,Other services (except public administration)
+Newfoundland and Labrador,2023,25.92,Other services (except public administration)
+Newfoundland and Labrador,2024,27.14,Other services (except public administration)
+Newfoundland and Labrador,2025,28.36,Other services (except public administration)
+Nova Scotia,2021,24.04,Other services (except public administration)
+Nova Scotia,2022,24.48,Other services (except public administration)
+Nova Scotia,2023,24.53,Other services (except public administration)
+Nova Scotia,2024,27.6,Other services (except public administration)
+Nova Scotia,2025,28.32,Other services (except public administration)
+Ontario,2021,28.1,Other services (except public administration)
+Ontario,2022,27.92,Other services (except public administration)
+Ontario,2023,29.26,Other services (except public administration)
+Ontario,2024,31.17,Other services (except public administration)
+Ontario,2025,32.1,Other services (except public administration)
+Prince Edward Island,2021,21.98,Other services (except public administration)
+Prince Edward Island,2022,24.76,Other services (except public administration)
+Prince Edward Island,2023,24.81,Other services (except public administration)
+Prince Edward Island,2024,26.76,Other services (except public administration)
+Prince Edward Island,2025,24.99,Other services (except public administration)
+Quebec,2021,24.86,Other services (except public administration)
+Quebec,2022,26.62,Other services (except public administration)
+Quebec,2023,28.5,Other services (except public administration)
+Quebec,2024,29.7,Other services (except public administration)
+Quebec,2025,31.43,Other services (except public administration)
+Saskatchewan,2021,25.5,Other services (except public administration)
+Saskatchewan,2022,25.8,Other services (except public administration)
+Saskatchewan,2023,26.79,Other services (except public administration)
+Saskatchewan,2024,28.95,Other services (except public administration)
+Saskatchewan,2025,28.9,Other services (except public administration)
+Alberta,2021,41.85,Public administration
+Alberta,2022,43.29,Public administration
+Alberta,2023,44.82,Public administration
+Alberta,2024,46.1,Public administration
+Alberta,2025,46.96,Public administration
+British Columbia,2021,39.33,Public administration
+British Columbia,2022,41.22,Public administration
+British Columbia,2023,42.12,Public administration
+British Columbia,2024,45.77,Public administration
+British Columbia,2025,48.42,Public administration
+Manitoba,2021,35.32,Public administration
+New Brunswick,2021,33.61,Public administration
+Newfoundland and Labrador,2021,34.43,Public administration
+Nova Scotia,2021,37.24,Public administration
+Ontario,2021,42.22,Public administration
+Prince Edward Island,2021,34.38,Public administration
+Quebec,2021,38.34,Public administration
+Saskatchewan,2021,37.6,Public administration
+Manitoba,2022,37.32,Public administration
+New Brunswick,2022,36.91,Public administration
+Newfoundland and Labrador,2022,36.47,Public administration
+Nova Scotia,2022,37.91,Public administration
+Ontario,2022,42.22,Public administration
+Prince Edward Island,2022,35.58,Public administration
+Quebec,2022,39.35,Public administration
+Saskatchewan,2022,38.62,Public administration
+Manitoba,2023,37.93,Public administration
+New Brunswick,2023,37.69,Public administration
+Newfoundland and Labrador,2023,38.04,Public administration
+Nova Scotia,2023,39.72,Public administration
+Ontario,2023,44.6,Public administration
+Prince Edward Island,2023,37.7,Public administration
+Quebec,2023,41.17,Public administration
+Saskatchewan,2023,39.72,Public administration
+Manitoba,2024,39.77,Public administration
+New Brunswick,2024,40.15,Public administration
+Newfoundland and Labrador,2024,40.68,Public administration
+Nova Scotia,2024,41.92,Public administration
+Ontario,2024,46.65,Public administration
+Prince Edward Island,2024,39.93,Public administration
+Quebec,2024,42.4,Public administration
+Saskatchewan,2024,41.0,Public administration
+Manitoba,2025,41.92,Public administration
+New Brunswick,2025,41.31,Public administration
+Newfoundland and Labrador,2025,41.2,Public administration
+Nova Scotia,2025,43.91,Public administration
+Ontario,2025,48.81,Public administration
+Prince Edward Island,2025,40.67,Public administration
+Quebec,2025,43.78,Public administration
+Saskatchewan,2025,43.76,Public administration
