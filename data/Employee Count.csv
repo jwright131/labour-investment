@@ -1,0 +1,1873 @@
+Province,Employee Count,Categories,Year
+Alberta,2031650,Industrial aggregate including unclassified businesses,2019
+Alberta,1823864,Industrial aggregate including unclassified businesses,2020
+Alberta,1908571,Industrial aggregate including unclassified businesses,2021
+Alberta,2038044,Industrial aggregate including unclassified businesses,2022
+Alberta,2114445,Industrial aggregate including unclassified businesses,2023
+Alberta,2155403,Industrial aggregate including unclassified businesses,2024
+British Columbia,2338341,Industrial aggregate including unclassified businesses,2019
+British Columbia,2152353,Industrial aggregate including unclassified businesses,2020
+British Columbia,2299174,Industrial aggregate including unclassified businesses,2021
+British Columbia,2465375,Industrial aggregate including unclassified businesses,2022
+British Columbia,2543321,Industrial aggregate including unclassified businesses,2023
+British Columbia,2560442,Industrial aggregate including unclassified businesses,2024
+Manitoba,"621,718",Industrial aggregate including unclassified businesses,2019
+Manitoba,"575,888",Industrial aggregate including unclassified businesses,2020
+Manitoba,"599,986",Industrial aggregate including unclassified businesses,2021
+Manitoba,"624,734",Industrial aggregate including unclassified businesses,2022
+Manitoba,"640,197",Industrial aggregate including unclassified businesses,2023
+Manitoba,"643,057",Industrial aggregate including unclassified businesses,2024
+New Brunswick,325246,Industrial aggregate including unclassified businesses,2019
+New Brunswick,"310,308",Industrial aggregate including unclassified businesses,2020
+New Brunswick,"330,838",Industrial aggregate including unclassified businesses,2021
+New Brunswick,"343,454",Industrial aggregate including unclassified businesses,2022
+New Brunswick,"352,698",Industrial aggregate including unclassified businesses,2023
+New Brunswick,"357,512",Industrial aggregate including unclassified businesses,2024
+Newfoundland and Labrador,"216,662",Industrial aggregate including unclassified businesses,2019
+Newfoundland and Labrador,"199,061",Industrial aggregate including unclassified businesses,2020
+Newfoundland and Labrador,"209,894",Industrial aggregate including unclassified businesses,2021
+Newfoundland and Labrador,"217,517",Industrial aggregate including unclassified businesses,2022
+Newfoundland and Labrador,"220,383",Industrial aggregate including unclassified businesses,2023
+Newfoundland and Labrador,"218,918",Industrial aggregate including unclassified businesses,2024
+Northwest Territories,"26,787",Industrial aggregate including unclassified businesses,2019
+Northwest Territories,"24,521",Industrial aggregate including unclassified businesses,2020
+Northwest Territories,"26,456",Industrial aggregate including unclassified businesses,2021
+Northwest Territories,"27,260",Industrial aggregate including unclassified businesses,2022
+Northwest Territories,"27,643",Industrial aggregate including unclassified businesses,2023
+Northwest Territories,"27,870",Industrial aggregate including unclassified businesses,2024
+Nova Scotia,"422,965",Industrial aggregate including unclassified businesses,2019
+Nova Scotia,"395,335",Industrial aggregate including unclassified businesses,2020
+Nova Scotia,"417,914",Industrial aggregate including unclassified businesses,2021
+Nova Scotia,"437,365",Industrial aggregate including unclassified businesses,2022
+Nova Scotia,"449,485",Industrial aggregate including unclassified businesses,2023
+Nova Scotia,"458,341",Industrial aggregate including unclassified businesses,2024
+Nunavut,"17,759",Industrial aggregate including unclassified businesses,2019
+Nunavut,"18,085",Industrial aggregate including unclassified businesses,2020
+Nunavut,"19,250",Industrial aggregate including unclassified businesses,2021
+Nunavut,"20,156",Industrial aggregate including unclassified businesses,2022
+Nunavut,"20,698",Industrial aggregate including unclassified businesses,2023
+Nunavut,"21,532",Industrial aggregate including unclassified businesses,2024
+Ontario,6611404,Industrial aggregate including unclassified businesses,2019
+Ontario,6031769,Industrial aggregate including unclassified businesses,2020
+Ontario,6339002,Industrial aggregate including unclassified businesses,2021
+Ontario,6789270,Industrial aggregate including unclassified businesses,2022
+Ontario,6981698,Industrial aggregate including unclassified businesses,2023
+Ontario,7057582,Industrial aggregate including unclassified businesses,2024
+Prince Edward Island,69315,Industrial aggregate including unclassified businesses,2019
+Prince Edward Island,64830,Industrial aggregate including unclassified businesses,2020
+Prince Edward Island,69651,Industrial aggregate including unclassified businesses,2021
+Prince Edward Island,"74,598",Industrial aggregate including unclassified businesses,2022
+Prince Edward Island,"77,055",Industrial aggregate including unclassified businesses,2023
+Prince Edward Island,"78,345",Industrial aggregate including unclassified businesses,2024
+Quebec,3817655,Industrial aggregate including unclassified businesses,2019
+Quebec,3537357,Industrial aggregate including unclassified businesses,2020
+Quebec,3763958,Industrial aggregate including unclassified businesses,2021
+Quebec,3969327,Industrial aggregate including unclassified businesses,2022
+Quebec,4044938,Industrial aggregate including unclassified businesses,2023
+Quebec,4073130,Industrial aggregate including unclassified businesses,2024
+Saskatchewan,"481,776",Industrial aggregate including unclassified businesses,2019
+Saskatchewan,"447,506",Industrial aggregate including unclassified businesses,2020
+Saskatchewan,"471,792",Industrial aggregate including unclassified businesses,2021
+Saskatchewan,"492,973",Industrial aggregate including unclassified businesses,2022
+Saskatchewan,"506,208",Industrial aggregate including unclassified businesses,2023
+Saskatchewan,"514,110",Industrial aggregate including unclassified businesses,2024
+Yukon,"22,325",Industrial aggregate including unclassified businesses,2019
+Yukon,"21,101",Industrial aggregate including unclassified businesses,2020
+Yukon,"22,916",Industrial aggregate including unclassified businesses,2021
+Yukon,"23,849",Industrial aggregate including unclassified businesses,2022
+Yukon,"24,767",Industrial aggregate including unclassified businesses,2023
+Yukon,"25,391",Industrial aggregate including unclassified businesses,2024
+Alberta,2000849,Industrial aggregate excluding unclassified businesses,2019
+Alberta,1795665,Industrial aggregate excluding unclassified businesses,2020
+Alberta,1875922,Industrial aggregate excluding unclassified businesses,2021
+Alberta,1993846,Industrial aggregate excluding unclassified businesses,2022
+Alberta,2069534,Industrial aggregate excluding unclassified businesses,2023
+Alberta,2106626,Industrial aggregate excluding unclassified businesses,2024
+British Columbia,2282352,Industrial aggregate excluding unclassified businesses,2019
+British Columbia,2101140,Industrial aggregate excluding unclassified businesses,2020
+British Columbia,2242035,Industrial aggregate excluding unclassified businesses,2021
+British Columbia,2396045,Industrial aggregate excluding unclassified businesses,2022
+British Columbia,2472454,Industrial aggregate excluding unclassified businesses,2023
+British Columbia,2488074,Industrial aggregate excluding unclassified businesses,2024
+Manitoba,"611,933",Industrial aggregate excluding unclassified businesses,2019
+Manitoba,"566,222",Industrial aggregate excluding unclassified businesses,2020
+Manitoba,"589,760",Industrial aggregate excluding unclassified businesses,2021
+Manitoba,"612,762",Industrial aggregate excluding unclassified businesses,2022
+Manitoba,"627,236",Industrial aggregate excluding unclassified businesses,2023
+Manitoba,"630,266",Industrial aggregate excluding unclassified businesses,2024
+New Brunswick,320576,Industrial aggregate excluding unclassified businesses,2019
+New Brunswick,"305,673",Industrial aggregate excluding unclassified businesses,2020
+New Brunswick,"325,324",Industrial aggregate excluding unclassified businesses,2021
+New Brunswick,"337,285",Industrial aggregate excluding unclassified businesses,2022
+New Brunswick,"346,254",Industrial aggregate excluding unclassified businesses,2023
+New Brunswick,"350,456",Industrial aggregate excluding unclassified businesses,2024
+Newfoundland and Labrador,"211,229",Industrial aggregate excluding unclassified businesses,2019
+Newfoundland and Labrador,"194,077",Industrial aggregate excluding unclassified businesses,2020
+Newfoundland and Labrador,"204,950",Industrial aggregate excluding unclassified businesses,2021
+Newfoundland and Labrador,"212,134",Industrial aggregate excluding unclassified businesses,2022
+Newfoundland and Labrador,"214,288",Industrial aggregate excluding unclassified businesses,2023
+Newfoundland and Labrador,"212,463",Industrial aggregate excluding unclassified businesses,2024
+Northwest Territories,"26,620",Industrial aggregate excluding unclassified businesses,2019
+Northwest Territories,"24,315",Industrial aggregate excluding unclassified businesses,2020
+Northwest Territories,"26,214",Industrial aggregate excluding unclassified businesses,2021
+Northwest Territories,"26,906",Industrial aggregate excluding unclassified businesses,2022
+Northwest Territories,"27,101",Industrial aggregate excluding unclassified businesses,2023
+Northwest Territories,"27,237",Industrial aggregate excluding unclassified businesses,2024
+Nova Scotia,"415,572",Industrial aggregate excluding unclassified businesses,2019
+Nova Scotia,"389,128",Industrial aggregate excluding unclassified businesses,2020
+Nova Scotia,"411,554",Industrial aggregate excluding unclassified businesses,2021
+Nova Scotia,"429,362",Industrial aggregate excluding unclassified businesses,2022
+Nova Scotia,"441,560",Industrial aggregate excluding unclassified businesses,2023
+Nova Scotia,"450,120",Industrial aggregate excluding unclassified businesses,2024
+Nunavut,"17,600",Industrial aggregate excluding unclassified businesses,2019
+Nunavut,"17,965",Industrial aggregate excluding unclassified businesses,2020
+Nunavut,"19,165",Industrial aggregate excluding unclassified businesses,2021
+Nunavut,"19,987",Industrial aggregate excluding unclassified businesses,2022
+Nunavut,"20,460",Industrial aggregate excluding unclassified businesses,2023
+Nunavut,"21,353",Industrial aggregate excluding unclassified businesses,2024
+Ontario,6496777,Industrial aggregate excluding unclassified businesses,2019
+Ontario,5927767,Industrial aggregate excluding unclassified businesses,2020
+Ontario,6228617,Industrial aggregate excluding unclassified businesses,2021
+Ontario,6662707,Industrial aggregate excluding unclassified businesses,2022
+Ontario,6855153,Industrial aggregate excluding unclassified businesses,2023
+Ontario,6931697,Industrial aggregate excluding unclassified businesses,2024
+Prince Edward Island,67961,Industrial aggregate excluding unclassified businesses,2019
+Prince Edward Island,63741,Industrial aggregate excluding unclassified businesses,2020
+Prince Edward Island,68388,Industrial aggregate excluding unclassified businesses,2021
+Prince Edward Island,"73,203",Industrial aggregate excluding unclassified businesses,2022
+Prince Edward Island,"75,672",Industrial aggregate excluding unclassified businesses,2023
+Prince Edward Island,"76,792",Industrial aggregate excluding unclassified businesses,2024
+Quebec,3760359,Industrial aggregate excluding unclassified businesses,2019
+Quebec,3486361,Industrial aggregate excluding unclassified businesses,2020
+Quebec,3708205,Industrial aggregate excluding unclassified businesses,2021
+Quebec,3904557,Industrial aggregate excluding unclassified businesses,2022
+Quebec,3979465,Industrial aggregate excluding unclassified businesses,2023
+Quebec,4007625,Industrial aggregate excluding unclassified businesses,2024
+Saskatchewan,"475,499",Industrial aggregate excluding unclassified businesses,2019
+Saskatchewan,"442,928",Industrial aggregate excluding unclassified businesses,2020
+Saskatchewan,"466,785",Industrial aggregate excluding unclassified businesses,2021
+Saskatchewan,"487,408",Industrial aggregate excluding unclassified businesses,2022
+Saskatchewan,"500,294",Industrial aggregate excluding unclassified businesses,2023
+Saskatchewan,"507,468",Industrial aggregate excluding unclassified businesses,2024
+Yukon,"21,937",Industrial aggregate excluding unclassified businesses,2019
+Yukon,"20,788",Industrial aggregate excluding unclassified businesses,2020
+Yukon,"22,522",Industrial aggregate excluding unclassified businesses,2021
+Yukon,"23,247",Industrial aggregate excluding unclassified businesses,2022
+Yukon,"24,156",Industrial aggregate excluding unclassified businesses,2023
+Yukon,"24,870",Industrial aggregate excluding unclassified businesses,2024
+Alberta,416652,Goods producing industries,2019
+Alberta,372459,Goods producing industries,2020
+Alberta,388861,Goods producing industries,2021
+Alberta,417131,Goods producing industries,2022
+Alberta,430778,Goods producing industries,2023
+Alberta,441440,Goods producing industries,2024
+British Columbia,371129,Goods producing industries,2019
+British Columbia,348524,Goods producing industries,2020
+British Columbia,376159,Goods producing industries,2021
+British Columbia,389293,Goods producing industries,2022
+British Columbia,392144,Goods producing industries,2023
+British Columbia,390349,Goods producing industries,2024
+Manitoba,"101,835",Goods producing industries,2019
+Manitoba,"94,924",Goods producing industries,2020
+Manitoba,"98,841",Goods producing industries,2021
+Manitoba,"102,837",Goods producing industries,2022
+Manitoba,"104,613",Goods producing industries,2023
+Manitoba,"105,835",Goods producing industries,2024
+New Brunswick,57438,Goods producing industries,2019
+New Brunswick,"53,379",Goods producing industries,2020
+New Brunswick,"56,434",Goods producing industries,2021
+New Brunswick,"58,384",Goods producing industries,2022
+New Brunswick,"59,432",Goods producing industries,2023
+New Brunswick,"61,761",Goods producing industries,2024
+Newfoundland and Labrador,"35,553",Goods producing industries,2019
+Newfoundland and Labrador,"30,980",Goods producing industries,2020
+Newfoundland and Labrador,"32,898",Goods producing industries,2021
+Newfoundland and Labrador,"34,358",Goods producing industries,2022
+Newfoundland and Labrador,"34,772",Goods producing industries,2023
+Newfoundland and Labrador,"34,251",Goods producing industries,2024
+Northwest Territories,"4,640",Goods producing industries,2019
+Northwest Territories,"3,887",Goods producing industries,2020
+Northwest Territories,"4,626",Goods producing industries,2021
+Northwest Territories,"4,998",Goods producing industries,2022
+Northwest Territories,"4,787",Goods producing industries,2023
+Northwest Territories,"4,933",Goods producing industries,2024
+Nova Scotia,"61,791",Goods producing industries,2019
+Nova Scotia,"57,396",Goods producing industries,2020
+Nova Scotia,"60,538",Goods producing industries,2021
+Nova Scotia,"62,916",Goods producing industries,2022
+Nova Scotia,"65,175",Goods producing industries,2023
+Nova Scotia,"67,335",Goods producing industries,2024
+Nunavut,"3,260",Goods producing industries,2019
+Nunavut,"3,770",Goods producing industries,2020
+Nunavut,"4,089",Goods producing industries,2021
+Nunavut,"4,687",Goods producing industries,2022
+Nunavut,"4,592",Goods producing industries,2023
+Nunavut,"5,059",Goods producing industries,2024
+Ontario,1132181,Goods producing industries,2019
+Ontario,1047144,Goods producing industries,2020
+Ontario,1108571,Goods producing industries,2021
+Ontario,1154867,Goods producing industries,2022
+Ontario,1178578,Goods producing industries,2023
+Ontario,1173064,Goods producing industries,2024
+Prince Edward Island,10081,Goods producing industries,2019
+Prince Edward Island,9667,Goods producing industries,2020
+Prince Edward Island,10388,Goods producing industries,2021
+Prince Edward Island,"11,074",Goods producing industries,2022
+Prince Edward Island,"11,893",Goods producing industries,2023
+Prince Edward Island,"12,452",Goods producing industries,2024
+Quebec,714203,Goods producing industries,2019
+Quebec,668919,Goods producing industries,2020
+Quebec,715533,Goods producing industries,2021
+Quebec,741102,Goods producing industries,2022
+Quebec,742886,Goods producing industries,2023
+Quebec,744262,Goods producing industries,2024
+Saskatchewan,"77,109",Goods producing industries,2019
+Saskatchewan,"71,397",Goods producing industries,2020
+Saskatchewan,"74,717",Goods producing industries,2021
+Saskatchewan,"79,023",Goods producing industries,2022
+Saskatchewan,"82,336",Goods producing industries,2023
+Saskatchewan,"83,166",Goods producing industries,2024
+Yukon,"2,383",Goods producing industries,2019
+Yukon,"2,671",Goods producing industries,2020
+Yukon,"3,199",Goods producing industries,2021
+Yukon,"3,382",Goods producing industries,2022
+Yukon,"3,356",Goods producing industries,2023
+Yukon,"3,099",Goods producing industries,2024
+Alberta,3861,"Forestry, logging and support",2019
+Alberta,3553,"Forestry, logging and support",2020
+Alberta,3615,"Forestry, logging and support",2021
+Alberta,3855,"Forestry, logging and support",2022
+Alberta,3818,"Forestry, logging and support",2023
+Alberta,3840,"Forestry, logging and support",2024
+British Columbia,16653,"Forestry, logging and support",2019
+British Columbia,15394,"Forestry, logging and support",2020
+British Columbia,17259,"Forestry, logging and support",2021
+British Columbia,17194,"Forestry, logging and support",2022
+British Columbia,15816,"Forestry, logging and support",2023
+British Columbia,15335,"Forestry, logging and support",2024
+Manitoba,x,"Forestry, logging and support",2019
+Manitoba,x,"Forestry, logging and support",2020
+Manitoba,x,"Forestry, logging and support",2021
+Manitoba,x,"Forestry, logging and support",2022
+Manitoba,x,"Forestry, logging and support",2023
+Manitoba,x,"Forestry, logging and support",2024
+New Brunswick,2532,"Forestry, logging and support",2019
+New Brunswick,"2,494","Forestry, logging and support",2020
+New Brunswick,"2,269","Forestry, logging and support",2021
+New Brunswick,"2,130","Forestry, logging and support",2022
+New Brunswick,"2,172","Forestry, logging and support",2023
+New Brunswick,"2,099","Forestry, logging and support",2024
+Newfoundland and Labrador,x,"Forestry, logging and support",2019
+Newfoundland and Labrador,x,"Forestry, logging and support",2020
+Newfoundland and Labrador,x,"Forestry, logging and support",2021
+Newfoundland and Labrador,x,"Forestry, logging and support",2022
+Newfoundland and Labrador,x,"Forestry, logging and support",2023
+Newfoundland and Labrador,x,"Forestry, logging and support",2024
+Northwest Territories,x,"Forestry, logging and support",2019
+Northwest Territories,x,"Forestry, logging and support",2020
+Northwest Territories,x,"Forestry, logging and support",2021
+Northwest Territories,x,"Forestry, logging and support",2022
+Northwest Territories,x,"Forestry, logging and support",2023
+Northwest Territories,x,"Forestry, logging and support",2024
+Nova Scotia,864,"Forestry, logging and support",2019
+Nova Scotia,785,"Forestry, logging and support",2020
+Nova Scotia,838,"Forestry, logging and support",2021
+Nova Scotia,735,"Forestry, logging and support",2022
+Nova Scotia,817,"Forestry, logging and support",2023
+Nova Scotia,799,"Forestry, logging and support",2024
+Nunavut,x,"Forestry, logging and support",2019
+Nunavut,x,"Forestry, logging and support",2020
+Nunavut,x,"Forestry, logging and support",2021
+Nunavut,x,"Forestry, logging and support",2022
+Nunavut,x,"Forestry, logging and support",2023
+Nunavut,x,"Forestry, logging and support",2024
+Ontario,4163,"Forestry, logging and support",2019
+Ontario,3708,"Forestry, logging and support",2020
+Ontario,3832,"Forestry, logging and support",2021
+Ontario,3677,"Forestry, logging and support",2022
+Ontario,3867,"Forestry, logging and support",2023
+Ontario,4489,"Forestry, logging and support",2024
+Prince Edward Island,61,"Forestry, logging and support",2019
+Prince Edward Island,59,"Forestry, logging and support",2020
+Prince Edward Island,54,"Forestry, logging and support",2021
+Prince Edward Island,54,"Forestry, logging and support",2022
+Prince Edward Island,53,"Forestry, logging and support",2023
+Prince Edward Island,x,"Forestry, logging and support",2024
+Quebec,9275,"Forestry, logging and support",2019
+Quebec,8656,"Forestry, logging and support",2020
+Quebec,9164,"Forestry, logging and support",2021
+Quebec,9238,"Forestry, logging and support",2022
+Quebec,9464,"Forestry, logging and support",2023
+Quebec,9701,"Forestry, logging and support",2024
+Saskatchewan,x,"Forestry, logging and support",2019
+Saskatchewan,x,"Forestry, logging and support",2020
+Saskatchewan,x,"Forestry, logging and support",2021
+Saskatchewan,x,"Forestry, logging and support",2022
+Saskatchewan,x,"Forestry, logging and support",2023
+Saskatchewan,x,"Forestry, logging and support",2024
+Yukon,x,"Forestry, logging and support",2019
+Yukon,x,"Forestry, logging and support",2020
+Yukon,x,"Forestry, logging and support",2021
+Yukon,x,"Forestry, logging and support",2022
+Yukon,x,"Forestry, logging and support",2023
+Yukon,x,"Forestry, logging and support",2024
+Alberta,100311,"Mining, quarrying, and oil and gas extraction",2019
+Alberta,88790,"Mining, quarrying, and oil and gas extraction",2020
+Alberta,88528,"Mining, quarrying, and oil and gas extraction",2021
+Alberta,97402,"Mining, quarrying, and oil and gas extraction",2022
+Alberta,100683,"Mining, quarrying, and oil and gas extraction",2023
+Alberta,99691,"Mining, quarrying, and oil and gas extraction",2024
+British Columbia,20333,"Mining, quarrying, and oil and gas extraction",2019
+British Columbia,18684,"Mining, quarrying, and oil and gas extraction",2020
+British Columbia,21298,"Mining, quarrying, and oil and gas extraction",2021
+British Columbia,23130,"Mining, quarrying, and oil and gas extraction",2022
+British Columbia,25036,"Mining, quarrying, and oil and gas extraction",2023
+British Columbia,25549,"Mining, quarrying, and oil and gas extraction",2024
+Manitoba,x,"Mining, quarrying, and oil and gas extraction",2019
+Manitoba,x,"Mining, quarrying, and oil and gas extraction",2020
+Manitoba,x,"Mining, quarrying, and oil and gas extraction",2021
+Manitoba,x,"Mining, quarrying, and oil and gas extraction",2022
+Manitoba,x,"Mining, quarrying, and oil and gas extraction",2023
+Manitoba,x,"Mining, quarrying, and oil and gas extraction",2024
+New Brunswick,936,"Mining, quarrying, and oil and gas extraction",2019
+New Brunswick,x,"Mining, quarrying, and oil and gas extraction",2020
+New Brunswick,x,"Mining, quarrying, and oil and gas extraction",2021
+New Brunswick,x,"Mining, quarrying, and oil and gas extraction",2022
+New Brunswick,x,"Mining, quarrying, and oil and gas extraction",2023
+New Brunswick,x,"Mining, quarrying, and oil and gas extraction",2024
+Newfoundland and Labrador,"5,833","Mining, quarrying, and oil and gas extraction",2019
+Newfoundland and Labrador,"5,788","Mining, quarrying, and oil and gas extraction",2020
+Newfoundland and Labrador,"5,398","Mining, quarrying, and oil and gas extraction",2021
+Newfoundland and Labrador,"5,472","Mining, quarrying, and oil and gas extraction",2022
+Newfoundland and Labrador,"5,395","Mining, quarrying, and oil and gas extraction",2023
+Newfoundland and Labrador,"5,595","Mining, quarrying, and oil and gas extraction",2024
+Northwest Territories,"2,473","Mining, quarrying, and oil and gas extraction",2019
+Northwest Territories,"2,013","Mining, quarrying, and oil and gas extraction",2020
+Northwest Territories,"2,372","Mining, quarrying, and oil and gas extraction",2021
+Northwest Territories,"2,266","Mining, quarrying, and oil and gas extraction",2022
+Northwest Territories,"2,179","Mining, quarrying, and oil and gas extraction",2023
+Northwest Territories,"2,457","Mining, quarrying, and oil and gas extraction",2024
+Nova Scotia,x,"Mining, quarrying, and oil and gas extraction",2019
+Nova Scotia,x,"Mining, quarrying, and oil and gas extraction",2020
+Nova Scotia,x,"Mining, quarrying, and oil and gas extraction",2021
+Nova Scotia,x,"Mining, quarrying, and oil and gas extraction",2022
+Nova Scotia,x,"Mining, quarrying, and oil and gas extraction",2023
+Nova Scotia,x,"Mining, quarrying, and oil and gas extraction",2024
+Nunavut,x,"Mining, quarrying, and oil and gas extraction",2019
+Nunavut,x,"Mining, quarrying, and oil and gas extraction",2020
+Nunavut,x,"Mining, quarrying, and oil and gas extraction",2021
+Nunavut,x,"Mining, quarrying, and oil and gas extraction",2022
+Nunavut,x,"Mining, quarrying, and oil and gas extraction",2023
+Nunavut,x,"Mining, quarrying, and oil and gas extraction",2024
+Ontario,26263,"Mining, quarrying, and oil and gas extraction",2019
+Ontario,26468,"Mining, quarrying, and oil and gas extraction",2020
+Ontario,27550,"Mining, quarrying, and oil and gas extraction",2021
+Ontario,29288,"Mining, quarrying, and oil and gas extraction",2022
+Ontario,30456,"Mining, quarrying, and oil and gas extraction",2023
+Ontario,29552,"Mining, quarrying, and oil and gas extraction",2024
+Prince Edward Island,27,"Mining, quarrying, and oil and gas extraction",2019
+Prince Edward Island,23,"Mining, quarrying, and oil and gas extraction",2020
+Prince Edward Island,25,"Mining, quarrying, and oil and gas extraction",2021
+Prince Edward Island,26,"Mining, quarrying, and oil and gas extraction",2022
+Prince Edward Island,21,"Mining, quarrying, and oil and gas extraction",2023
+Prince Edward Island,x,"Mining, quarrying, and oil and gas extraction",2024
+Quebec,19613,"Mining, quarrying, and oil and gas extraction",2019
+Quebec,19340,"Mining, quarrying, and oil and gas extraction",2020
+Quebec,20611,"Mining, quarrying, and oil and gas extraction",2021
+Quebec,21028,"Mining, quarrying, and oil and gas extraction",2022
+Quebec,20362,"Mining, quarrying, and oil and gas extraction",2023
+Quebec,20779,"Mining, quarrying, and oil and gas extraction",2024
+Saskatchewan,"18,277","Mining, quarrying, and oil and gas extraction",2019
+Saskatchewan,"17,150","Mining, quarrying, and oil and gas extraction",2020
+Saskatchewan,"16,554","Mining, quarrying, and oil and gas extraction",2021
+Saskatchewan,"17,896","Mining, quarrying, and oil and gas extraction",2022
+Saskatchewan,"19,199","Mining, quarrying, and oil and gas extraction",2023
+Saskatchewan,"19,705","Mining, quarrying, and oil and gas extraction",2024
+Yukon,x,"Mining, quarrying, and oil and gas extraction",2019
+Yukon,x,"Mining, quarrying, and oil and gas extraction",2020
+Yukon,x,"Mining, quarrying, and oil and gas extraction",2021
+Yukon,x,"Mining, quarrying, and oil and gas extraction",2022
+Yukon,x,"Mining, quarrying, and oil and gas extraction",2023
+Yukon,x,"Mining, quarrying, and oil and gas extraction",2024
+Alberta,13832,"Utilities",2019
+Alberta,14292,"Utilities",2020
+Alberta,14964,"Utilities",2021
+Alberta,16550,"Utilities",2022
+Alberta,17696,"Utilities",2023
+Alberta,18159,"Utilities",2024
+British Columbia,12077,"Utilities",2019
+British Columbia,12182,"Utilities",2020
+British Columbia,12125,"Utilities",2021
+British Columbia,12124,"Utilities",2022
+British Columbia,12156,"Utilities",2023
+British Columbia,11846,"Utilities",2024
+Manitoba,x,"Utilities",2019
+Manitoba,x,"Utilities",2020
+Manitoba,x,"Utilities",2021
+Manitoba,x,"Utilities",2022
+Manitoba,x,"Utilities",2023
+Manitoba,x,"Utilities",2024
+New Brunswick,3043,"Utilities",2019
+New Brunswick,x,"Utilities",2020
+New Brunswick,x,"Utilities",2021
+New Brunswick,x,"Utilities",2022
+New Brunswick,x,"Utilities",2023
+New Brunswick,x,"Utilities",2024
+Newfoundland and Labrador,x,"Utilities",2019
+Newfoundland and Labrador,x,"Utilities",2020
+Newfoundland and Labrador,x,"Utilities",2021
+Newfoundland and Labrador,x,"Utilities",2022
+Newfoundland and Labrador,x,"Utilities",2023
+Newfoundland and Labrador,x,"Utilities",2024
+Northwest Territories,x,"Utilities",2019
+Northwest Territories,x,"Utilities",2020
+Northwest Territories,x,"Utilities",2021
+Northwest Territories,x,"Utilities",2022
+Northwest Territories,x,"Utilities",2023
+Northwest Territories,x,"Utilities",2024
+Nova Scotia,x,"Utilities",2019
+Nova Scotia,x,"Utilities",2020
+Nova Scotia,x,"Utilities",2021
+Nova Scotia,x,"Utilities",2022
+Nova Scotia,x,"Utilities",2023
+Nova Scotia,x,"Utilities",2024
+Nunavut,x,"Utilities",2019
+Nunavut,x,"Utilities",2020
+Nunavut,x,"Utilities",2021
+Nunavut,x,"Utilities",2022
+Nunavut,x,"Utilities",2023
+Nunavut,x,"Utilities",2024
+Ontario,52576,"Utilities",2019
+Ontario,50012,"Utilities",2020
+Ontario,49815,"Utilities",2021
+Ontario,51084,"Utilities",2022
+Ontario,52083,"Utilities",2023
+Ontario,51813,"Utilities",2024
+Prince Edward Island,495,"Utilities",2019
+Prince Edward Island,430,"Utilities",2020
+Prince Edward Island,418,"Utilities",2021
+Prince Edward Island,438,"Utilities",2022
+Prince Edward Island,425,"Utilities",2023
+Prince Edward Island,x,"Utilities",2024
+Quebec,28776,"Utilities",2019
+Quebec,27554,"Utilities",2020
+Quebec,28021,"Utilities",2021
+Quebec,28700,"Utilities",2022
+Quebec,30520,"Utilities",2023
+Quebec,31211,"Utilities",2024
+Saskatchewan,x,"Utilities",2019
+Saskatchewan,x,"Utilities",2020
+Saskatchewan,x,"Utilities",2021
+Saskatchewan,x,"Utilities",2022
+Saskatchewan,x,"Utilities",2023
+Saskatchewan,x,"Utilities",2024
+Yukon,x,"Utilities",2019
+Yukon,x,"Utilities",2020
+Yukon,x,"Utilities",2021
+Yukon,x,"Utilities",2022
+Yukon,x,"Utilities",2023
+Yukon,x,"Utilities",2024
+Alberta,173879,Construction,2019
+Alberta,153174,Construction,2020
+Alberta,165724,Construction,2021
+Alberta,178555,Construction,2022
+Alberta,185149,Construction,2023
+Alberta,192617,Construction,2024
+British Columbia,166426,Construction,2019
+British Columbia,158360,Construction,2020
+British Columbia,173121,Construction,2021
+British Columbia,183201,Construction,2022
+British Columbia,189427,Construction,2023
+British Columbia,190208,Construction,2024
+Manitoba,"35,394",Construction,2019
+Manitoba,"32,689",Construction,2020
+Manitoba,"34,914",Construction,2021
+Manitoba,"36,116",Construction,2022
+Manitoba,"37,410",Construction,2023
+Manitoba,"38,116",Construction,2024
+New Brunswick,19480,Construction,2019
+New Brunswick,"17,535",Construction,2020
+New Brunswick,"19,365",Construction,2021
+New Brunswick,"20,836",Construction,2022
+New Brunswick,"21,804",Construction,2023
+New Brunswick,"23,012",Construction,2024
+Newfoundland and Labrador,"16,798",Construction,2019
+Newfoundland and Labrador,"13,402",Construction,2020
+Newfoundland and Labrador,"14,518",Construction,2021
+Newfoundland and Labrador,"14,852",Construction,2022
+Newfoundland and Labrador,"15,907",Construction,2023
+Newfoundland and Labrador,"14,925",Construction,2024
+Northwest Territories,"1,765",Construction,2019
+Northwest Territories,"1,491",Construction,2020
+Northwest Territories,"1,882",Construction,2021
+Northwest Territories,"2,334",Construction,2022
+Northwest Territories,"2,214",Construction,2023
+Northwest Territories,"2,087",Construction,2024
+Nova Scotia,"25,076",Construction,2019
+Nova Scotia,"22,654",Construction,2020
+Nova Scotia,"24,420",Construction,2021
+Nova Scotia,"26,077",Construction,2022
+Nova Scotia,"27,656",Construction,2023
+Nova Scotia,"29,571",Construction,2024
+Nunavut,969,Construction,2019
+Nunavut,860,Construction,2020
+Nunavut,874,Construction,2021
+Nunavut,807,Construction,2022
+Nunavut,871,Construction,2023
+Nunavut,789,Construction,2024
+Ontario,360984,Construction,2019
+Ontario,335942,Construction,2020
+Ontario,370686,Construction,2021
+Ontario,393824,Construction,2022
+Ontario,407121,Construction,2023
+Ontario,406664,Construction,2024
+Prince Edward Island,4125,Construction,2019
+Prince Edward Island,4046,Construction,2020
+Prince Edward Island,4287,Construction,2021
+Prince Edward Island,"4,644",Construction,2022
+Prince Edward Island,"5,034",Construction,2023
+Prince Edward Island,"5,369",Construction,2024
+Quebec,206667,Construction,2019
+Quebec,195981,Construction,2020
+Quebec,221203,Construction,2021
+Quebec,237250,Construction,2022
+Quebec,241243,Construction,2023
+Quebec,243576,Construction,2024
+Saskatchewan,"28,351",Construction,2019
+Saskatchewan,"25,584",Construction,2020
+Saskatchewan,"28,556",Construction,2021
+Saskatchewan,"30,336",Construction,2022
+Saskatchewan,"30,970",Construction,2023
+Saskatchewan,"30,519",Construction,2024
+Yukon,"1,333",Construction,2019
+Yukon,"1,370",Construction,2020
+Yukon,"1,529",Construction,2021
+Yukon,"1,832",Construction,2022
+Yukon,"1,772",Construction,2023
+Yukon,"1,769",Construction,2024
+Alberta,124769,Manufacturing,2019
+Alberta,112651,Manufacturing,2020
+Alberta,116030,Manufacturing,2021
+Alberta,120768,Manufacturing,2022
+Alberta,123431,Manufacturing,2023
+Alberta,127133,Manufacturing,2024
+British Columbia,155640,Manufacturing,2019
+British Columbia,143904,Manufacturing,2020
+British Columbia,152355,Manufacturing,2021
+British Columbia,153645,Manufacturing,2022
+British Columbia,149709,Manufacturing,2023
+British Columbia,147410,Manufacturing,2024
+Manitoba,"57,999",Manufacturing,2019
+Manitoba,"54,258",Manufacturing,2020
+Manitoba,"55,472",Manufacturing,2021
+Manitoba,"57,771",Manufacturing,2022
+Manitoba,"58,326",Manufacturing,2023
+Manitoba,"58,697",Manufacturing,2024
+New Brunswick,31449,Manufacturing,2019
+New Brunswick,"29,318",Manufacturing,2020
+New Brunswick,"30,608",Manufacturing,2021
+New Brunswick,"30,942",Manufacturing,2022
+New Brunswick,"30,996",Manufacturing,2023
+New Brunswick,"32,041",Manufacturing,2024
+Newfoundland and Labrador,"9,798",Manufacturing,2019
+Newfoundland and Labrador,"8,768",Manufacturing,2020
+Newfoundland and Labrador,"9,946",Manufacturing,2021
+Newfoundland and Labrador,"10,991",Manufacturing,2022
+Newfoundland and Labrador,"10,402",Manufacturing,2023
+Newfoundland and Labrador,"10,382",Manufacturing,2024
+Northwest Territories,x,Manufacturing,2019
+Northwest Territories,x,Manufacturing,2020
+Northwest Territories,x,Manufacturing,2021
+Northwest Territories,x,Manufacturing,2022
+Northwest Territories,x,Manufacturing,2023
+Northwest Territories,x,Manufacturing,2024
+Nova Scotia,"31,720",Manufacturing,2019
+Nova Scotia,"29,977",Manufacturing,2020
+Nova Scotia,"31,359",Manufacturing,2021
+Nova Scotia,"32,095",Manufacturing,2022
+Nova Scotia,"32,854",Manufacturing,2023
+Nova Scotia,"33,167",Manufacturing,2024
+Nunavut,x,Manufacturing,2019
+Nunavut,x,Manufacturing,2020
+Nunavut,x,Manufacturing,2021
+Nunavut,x,Manufacturing,2022
+Nunavut,x,Manufacturing,2023
+Nunavut,x,Manufacturing,2024
+Ontario,688195,Manufacturing,2019
+Ontario,631014,Manufacturing,2020
+Ontario,656688,Manufacturing,2021
+Ontario,676994,Manufacturing,2022
+Ontario,685050,Manufacturing,2023
+Ontario,680547,Manufacturing,2024
+Prince Edward Island,5373,Manufacturing,2019
+Prince Edward Island,5109,Manufacturing,2020
+Prince Edward Island,5605,Manufacturing,2021
+Prince Edward Island,"5,912",Manufacturing,2022
+Prince Edward Island,"6,360",Manufacturing,2023
+Prince Edward Island,"6,679",Manufacturing,2024
+Quebec,449873,Manufacturing,2019
+Quebec,417388,Manufacturing,2020
+Quebec,436533,Manufacturing,2021
+Quebec,444886,Manufacturing,2022
+Quebec,441297,Manufacturing,2023
+Quebec,438994,Manufacturing,2024
+Saskatchewan,"25,200",Manufacturing,2019
+Saskatchewan,"23,468",Manufacturing,2020
+Saskatchewan,"24,341",Manufacturing,2021
+Saskatchewan,"25,348",Manufacturing,2022
+Saskatchewan,"26,593",Manufacturing,2023
+Saskatchewan,"27,092",Manufacturing,2024
+Yukon,x,Manufacturing,2019
+Yukon,x,Manufacturing,2020
+Yukon,x,Manufacturing,2021
+Yukon,x,Manufacturing,2022
+Yukon,x,Manufacturing,2023
+Yukon,x,Manufacturing,2024
+Alberta,1584196,Service producing industries,2019
+Alberta,1423206,Service producing industries,2020
+Alberta,1487061,Service producing industries,2021
+Alberta,1576716,Service producing industries,2022
+Alberta,1638756,Service producing industries,2023
+Alberta,1665186,Service producing industries,2024
+British Columbia,1911223,Service producing industries,2019
+British Columbia,1752615,Service producing industries,2020
+British Columbia,1865876,Service producing industries,2021
+British Columbia,2006752,Service producing industries,2022
+British Columbia,2080310,Service producing industries,2023
+British Columbia,2097725,Service producing industries,2024
+Manitoba,"510,098",Service producing industries,2019
+Manitoba,"471,297",Service producing industries,2020
+Manitoba,"490,919",Service producing industries,2021
+Manitoba,"509,924",Service producing industries,2022
+Manitoba,"522,623",Service producing industries,2023
+Manitoba,"524,431",Service producing industries,2024
+New Brunswick,263138,Service producing industries,2019
+New Brunswick,"252,294",Service producing industries,2020
+New Brunswick,"268,890",Service producing industries,2021
+New Brunswick,"278,901",Service producing industries,2022
+New Brunswick,"286,823",Service producing industries,2023
+New Brunswick,"288,695",Service producing industries,2024
+Newfoundland and Labrador,"175,676",Service producing industries,2019
+Newfoundland and Labrador,"163,097",Service producing industries,2020
+Newfoundland and Labrador,"172,051",Service producing industries,2021
+Newfoundland and Labrador,"177,776",Service producing industries,2022
+Newfoundland and Labrador,"179,515",Service producing industries,2023
+Newfoundland and Labrador,"178,212",Service producing industries,2024
+Northwest Territories,"21,980",Service producing industries,2019
+Northwest Territories,"20,428",Service producing industries,2020
+Northwest Territories,"21,587",Service producing industries,2021
+Northwest Territories,"21,909",Service producing industries,2022
+Northwest Territories,"22,313",Service producing industries,2023
+Northwest Territories,"22,304",Service producing industries,2024
+Nova Scotia,"353,781",Service producing industries,2019
+Nova Scotia,"331,732",Service producing industries,2020
+Nova Scotia,"351,016",Service producing industries,2021
+Nova Scotia,"366,445",Service producing industries,2022
+Nova Scotia,"376,385",Service producing industries,2023
+Nova Scotia,"382,785",Service producing industries,2024
+Nunavut,"14,340",Service producing industries,2019
+Nunavut,"14,195",Service producing industries,2020
+Nunavut,"15,076",Service producing industries,2021
+Nunavut,"15,300",Service producing industries,2022
+Nunavut,"15,868",Service producing industries,2023
+Nunavut,"16,294",Service producing industries,2024
+Ontario,5364596,Service producing industries,2019
+Ontario,4880623,Service producing industries,2020
+Ontario,5120046,Service producing industries,2021
+Ontario,5507840,Service producing industries,2022
+Ontario,5676575,Service producing industries,2023
+Ontario,5758633,Service producing industries,2024
+Prince Edward Island,57879,Service producing industries,2019
+Prince Edward Island,54075,Service producing industries,2020
+Prince Edward Island,58000,Service producing industries,2021
+Prince Edward Island,"62,130",Service producing industries,2022
+Prince Edward Island,"63,778",Service producing industries,2023
+Prince Edward Island,"64,340",Service producing industries,2024
+Quebec,3046155,Service producing industries,2019
+Quebec,2817442,Service producing industries,2020
+Quebec,2992672,Service producing industries,2021
+Quebec,3163455,Service producing industries,2022
+Quebec,3236580,Service producing industries,2023
+Quebec,3263363,Service producing industries,2024
+Saskatchewan,"398,390",Service producing industries,2019
+Saskatchewan,"371,531",Service producing industries,2020
+Saskatchewan,"392,068",Service producing industries,2021
+Saskatchewan,"408,385",Service producing industries,2022
+Saskatchewan,"417,958",Service producing industries,2023
+Saskatchewan,"424,301",Service producing industries,2024
+Yukon,"19,554",Service producing industries,2019
+Yukon,"18,117",Service producing industries,2020
+Yukon,"19,323",Service producing industries,2021
+Yukon,"19,865",Service producing industries,2022
+Yukon,"20,800",Service producing industries,2023
+Yukon,"21,771",Service producing industries,2024
+Alberta,346250,Trade,2019
+Alberta,322517,Trade,2020
+Alberta,337897,Trade,2021
+Alberta,347445,Trade,2022
+Alberta,350498,Trade,2023
+Alberta,346828,Trade,2024
+British Columbia,381166,Trade,2019
+British Columbia,353329,Trade,2020
+British Columbia,372271,Trade,2021
+British Columbia,380965,Trade,2022
+British Columbia,383153,Trade,2023
+British Columbia,379376,Trade,2024
+Manitoba,"94,563",Trade,2019
+Manitoba,"88,794",Trade,2020
+Manitoba,"90,702",Trade,2021
+Manitoba,"91,716",Trade,2022
+Manitoba,"92,854",Trade,2023
+Manitoba,"92,518",Trade,2024
+New Brunswick,55508,Trade,2019
+New Brunswick,"51,834",Trade,2020
+New Brunswick,"54,516",Trade,2021
+New Brunswick,"55,652",Trade,2022
+New Brunswick,"55,991",Trade,2023
+New Brunswick,"56,178",Trade,2024
+Newfoundland and Labrador,"37,090",Trade,2019
+Newfoundland and Labrador,"34,833",Trade,2020
+Newfoundland and Labrador,"36,291",Trade,2021
+Newfoundland and Labrador,"37,113",Trade,2022
+Newfoundland and Labrador,"37,464",Trade,2023
+Newfoundland and Labrador,"36,663",Trade,2024
+Northwest Territories,"3,250",Trade,2019
+Northwest Territories,"2,923",Trade,2020
+Northwest Territories,"3,049",Trade,2021
+Northwest Territories,"2,961",Trade,2022
+Northwest Territories,"2,753",Trade,2023
+Northwest Territories,"2,774",Trade,2024
+Nova Scotia,"71,979",Trade,2019
+Nova Scotia,"68,432",Trade,2020
+Nova Scotia,"73,101",Trade,2021
+Nova Scotia,"75,495",Trade,2022
+Nova Scotia,"75,910",Trade,2023
+Nova Scotia,"75,687",Trade,2024
+Nunavut,"1,806",Trade,2019
+Nunavut,"1,909",Trade,2020
+Nunavut,"2,266",Trade,2021
+Nunavut,"2,199",Trade,2022
+Nunavut,"2,192",Trade,2023
+Nunavut,"2,187",Trade,2024
+Ontario,1096372,Trade,2019
+Ontario,1009238,Trade,2020
+Ontario,1052820,Trade,2021
+Ontario,1092766,Trade,2022
+Ontario,1100752,Trade,2023
+Ontario,1095910,Trade,2024
+Prince Edward Island,11506,Trade,2019
+Prince Edward Island,10830,Trade,2020
+Prince Edward Island,11655,Trade,2021
+Prince Edward Island,"12,240",Trade,2022
+Prince Edward Island,"12,151",Trade,2023
+Prince Edward Island,"11,810",Trade,2024
+Quebec,630675,Trade,2019
+Quebec,576522,Trade,2020
+Quebec,608735,Trade,2021
+Quebec,632505,Trade,2022
+Quebec,642945,Trade,2023
+Quebec,635531,Trade,2024
+Saskatchewan,"86,115",Trade,2019
+Saskatchewan,"82,226",Trade,2020
+Saskatchewan,"86,359",Trade,2021
+Saskatchewan,"88,894",Trade,2022
+Saskatchewan,"88,338",Trade,2023
+Saskatchewan,"88,248",Trade,2024
+Yukon,"3,221",Trade,2019
+Yukon,"2,900",Trade,2020
+Yukon,"3,055",Trade,2021
+Yukon,"3,023",Trade,2022
+Yukon,"3,225",Trade,2023
+Yukon,"3,208",Trade,2024
+Alberta,107212,Transportation and warehousing,2019
+Alberta,100821,Transportation and warehousing,2020
+Alberta,103229,Transportation and warehousing,2021
+Alberta,110371,Transportation and warehousing,2022
+Alberta,116781,Transportation and warehousing,2023
+Alberta,117856,Transportation and warehousing,2024
+British Columbia,116289,Transportation and warehousing,2019
+British Columbia,110858,Transportation and warehousing,2020
+British Columbia,114311,Transportation and warehousing,2021
+British Columbia,122218,Transportation and warehousing,2022
+British Columbia,126902,Transportation and warehousing,2023
+British Columbia,128561,Transportation and warehousing,2024
+Manitoba,"34,639",Transportation and warehousing,2019
+Manitoba,"33,463",Transportation and warehousing,2020
+Manitoba,"35,741",Transportation and warehousing,2021
+Manitoba,"37,612",Transportation and warehousing,2022
+Manitoba,"38,924",Transportation and warehousing,2023
+Manitoba,"38,759",Transportation and warehousing,2024
+New Brunswick,16447,Transportation and warehousing,2019
+New Brunswick,"15,951",Transportation and warehousing,2020
+New Brunswick,"16,129",Transportation and warehousing,2021
+New Brunswick,"16,631",Transportation and warehousing,2022
+New Brunswick,"17,136",Transportation and warehousing,2023
+New Brunswick,"17,365",Transportation and warehousing,2024
+Newfoundland and Labrador,"9,924",Transportation and warehousing,2019
+Newfoundland and Labrador,"9,134",Transportation and warehousing,2020
+Newfoundland and Labrador,"9,249",Transportation and warehousing,2021
+Newfoundland and Labrador,"9,604",Transportation and warehousing,2022
+Newfoundland and Labrador,"9,973",Transportation and warehousing,2023
+Newfoundland and Labrador,"10,038",Transportation and warehousing,2024
+Northwest Territories,"1,497",Transportation and warehousing,2019
+Northwest Territories,"1,255",Transportation and warehousing,2020
+Northwest Territories,"1,259",Transportation and warehousing,2021
+Northwest Territories,"1,434",Transportation and warehousing,2022
+Northwest Territories,"1,571",Transportation and warehousing,2023
+Northwest Territories,"1,624",Transportation and warehousing,2024
+Nova Scotia,"17,633",Transportation and warehousing,2019
+Nova Scotia,"16,862",Transportation and warehousing,2020
+Nova Scotia,"17,179",Transportation and warehousing,2021
+Nova Scotia,"17,779",Transportation and warehousing,2022
+Nova Scotia,"18,519",Transportation and warehousing,2023
+Nova Scotia,"18,232",Transportation and warehousing,2024
+Nunavut,847,Transportation and warehousing,2019
+Nunavut,833,Transportation and warehousing,2020
+Nunavut,743,Transportation and warehousing,2021
+Nunavut,867,Transportation and warehousing,2022
+Nunavut,945,Transportation and warehousing,2023
+Nunavut,"1,039",Transportation and warehousing,2024
+Ontario,287414,Transportation and warehousing,2019
+Ontario,275794,Transportation and warehousing,2020
+Ontario,285858,Transportation and warehousing,2021
+Ontario,296700,Transportation and warehousing,2022
+Ontario,309509,Transportation and warehousing,2023
+Ontario,311918,Transportation and warehousing,2024
+Prince Edward Island,2902,Transportation and warehousing,2019
+Prince Edward Island,2865,Transportation and warehousing,2020
+Prince Edward Island,2934,Transportation and warehousing,2021
+Prince Edward Island,"3,005",Transportation and warehousing,2022
+Prince Edward Island,"3,162",Transportation and warehousing,2023
+Prince Edward Island,"3,070",Transportation and warehousing,2024
+Quebec,167519,Transportation and warehousing,2019
+Quebec,157208,Transportation and warehousing,2020
+Quebec,161674,Transportation and warehousing,2021
+Quebec,170703,Transportation and warehousing,2022
+Quebec,175315,Transportation and warehousing,2023
+Quebec,175482,Transportation and warehousing,2024
+Saskatchewan,"18,728",Transportation and warehousing,2019
+Saskatchewan,"17,551",Transportation and warehousing,2020
+Saskatchewan,"18,176",Transportation and warehousing,2021
+Saskatchewan,"18,640",Transportation and warehousing,2022
+Saskatchewan,"19,598",Transportation and warehousing,2023
+Saskatchewan,"19,198",Transportation and warehousing,2024
+Yukon,"1,416",Transportation and warehousing,2019
+Yukon,"1,196",Transportation and warehousing,2020
+Yukon,"1,173",Transportation and warehousing,2021
+Yukon,"1,243",Transportation and warehousing,2022
+Yukon,"1,285",Transportation and warehousing,2023
+Yukon,"1,260",Transportation and warehousing,2024
+Alberta,27663,Information and cultural industries,2019
+Alberta,24495,Information and cultural industries,2020
+Alberta,24609,Information and cultural industries,2021
+Alberta,26141,Information and cultural industries,2022
+Alberta,26298,Information and cultural industries,2023
+Alberta,26762,Information and cultural industries,2024
+British Columbia,57828,Information and cultural industries,2019
+British Columbia,54391,Information and cultural industries,2020
+British Columbia,58134,Information and cultural industries,2021
+British Columbia,63773,Information and cultural industries,2022
+British Columbia,62753,Information and cultural industries,2023
+British Columbia,62828,Information and cultural industries,2024
+Manitoba,"11,945",Information and cultural industries,2019
+Manitoba,"14,561",Information and cultural industries,2020
+Manitoba,"16,961",Information and cultural industries,2021
+Manitoba,"18,201",Information and cultural industries,2022
+Manitoba,"18,019",Information and cultural industries,2023
+Manitoba,"18,546",Information and cultural industries,2024
+New Brunswick,6035,Information and cultural industries,2019
+New Brunswick,"5,244",Information and cultural industries,2020
+New Brunswick,"5,950",Information and cultural industries,2021
+New Brunswick,"5,927",Information and cultural industries,2022
+New Brunswick,"5,710",Information and cultural industries,2023
+New Brunswick,"4,705",Information and cultural industries,2024
+Newfoundland and Labrador,"5,002",Information and cultural industries,2019
+Newfoundland and Labrador,"4,524",Information and cultural industries,2020
+Newfoundland and Labrador,"4,790",Information and cultural industries,2021
+Newfoundland and Labrador,"4,803",Information and cultural industries,2022
+Newfoundland and Labrador,"4,746",Information and cultural industries,2023
+Newfoundland and Labrador,"4,564",Information and cultural industries,2024
+Northwest Territories,329,Information and cultural industries,2019
+Northwest Territories,360,Information and cultural industries,2020
+Northwest Territories,373,Information and cultural industries,2021
+Northwest Territories,x,Information and cultural industries,2022
+Northwest Territories,301,Information and cultural industries,2023
+Northwest Territories,295,Information and cultural industries,2024
+Nova Scotia,"7,193",Information and cultural industries,2019
+Nova Scotia,"6,622",Information and cultural industries,2020
+Nova Scotia,"6,832",Information and cultural industries,2021
+Nova Scotia,"7,274",Information and cultural industries,2022
+Nova Scotia,"7,415",Information and cultural industries,2023
+Nova Scotia,"7,479",Information and cultural industries,2024
+Nunavut,97,Information and cultural industries,2019
+Nunavut,85,Information and cultural industries,2020
+Nunavut,92,Information and cultural industries,2021
+Nunavut,104,Information and cultural industries,2022
+Nunavut,103,Information and cultural industries,2023
+Nunavut,102,Information and cultural industries,2024
+Ontario,152237,Information and cultural industries,2019
+Ontario,142315,Information and cultural industries,2020
+Ontario,150276,Information and cultural industries,2021
+Ontario,160486,Information and cultural industries,2022
+Ontario,152029,Information and cultural industries,2023
+Ontario,149284,Information and cultural industries,2024
+Prince Edward Island,856,Information and cultural industries,2019
+Prince Edward Island,748,Information and cultural industries,2020
+Prince Edward Island,748,Information and cultural industries,2021
+Prince Edward Island,x,Information and cultural industries,2022
+Prince Edward Island,737,Information and cultural industries,2023
+Prince Edward Island,700,Information and cultural industries,2024
+Quebec,74136,Information and cultural industries,2019
+Quebec,69425,Information and cultural industries,2020
+Quebec,72771,Information and cultural industries,2021
+Quebec,78362,Information and cultural industries,2022
+Quebec,77248,Information and cultural industries,2023
+Quebec,74288,Information and cultural industries,2024
+Saskatchewan,"9,501",Information and cultural industries,2019
+Saskatchewan,"8,734",Information and cultural industries,2020
+Saskatchewan,"8,962",Information and cultural industries,2021
+Saskatchewan,"9,398",Information and cultural industries,2022
+Alberta,166126,Accommodation and food services,2019
+Alberta,96440,"Administrative and support, waste management and remediation services",2019
+Alberta,39733,"Arts, entertainment and recreation",2019
+Alberta,152687,"Educational services",2019
+Alberta,63051,Finance and insurance,2019
+Alberta,217919,Health care and social assistance,2019
+Alberta,19761,"Management of companies and enterprises",2019
+Alberta,76186,Other services (except public administration),2019
+Alberta,118855,"Professional, scientific and technical services",2019
+Alberta,109302,Public administration,2019
+Alberta,43012,Real estate and rental and leasing,2019
+Alberta,30801,Unclassified businesses,2019
+British Columbia,237424,Accommodation and food services,2019
+British Columbia,108588,"Administrative and support, waste management and remediation services",2019
+British Columbia,50505,"Arts, entertainment and recreation",2019
+British Columbia,174067,"Educational services",2019
+British Columbia,90637,Finance and insurance,2019
+British Columbia,283317,Health care and social assistance,2019
+British Columbia,16544,"Management of companies and enterprises",2019
+British Columbia,79769,Other services (except public administration),2019
+British Columbia,137026,"Professional, scientific and technical services",2019
+British Columbia,132536,Public administration,2019
+British Columbia,45526,Real estate and rental and leasing,2019
+British Columbia,55989,Unclassified businesses,2019
+Manitoba,"44,307",Accommodation and food services,2019
+Manitoba,"22,357","Administrative and support, waste management and remediation services",2019
+Manitoba,"11,270","Arts, entertainment and recreation",2019
+Manitoba,"51,257","Educational services",2019
+Manitoba,"34,738",Finance and insurance,2019
+Manitoba,"99,970",Health care and social assistance,2019
+Manitoba,"5,353","Management of companies and enterprises",2019
+Manitoba,"20,968",Other services (except public administration),2019
+Manitoba,"18,286","Professional, scientific and technical services",2019
+Manitoba,"49,291",Public administration,2019
+Manitoba,"11,156",Real estate and rental and leasing,2019
+Manitoba,"9,785",Unclassified businesses,2019
+New Brunswick,24104,Accommodation and food services,2019
+New Brunswick,15906,"Administrative and support, waste management and remediation services",2019
+New Brunswick,4358,"Arts, entertainment and recreation",2019
+New Brunswick,20753,"Educational services",2019
+New Brunswick,14992,Finance and insurance,2019
+New Brunswick,49323,Health care and social assistance,2019
+New Brunswick,860,"Management of companies and enterprises",2019
+New Brunswick,9199,Other services (except public administration),2019
+New Brunswick,12086,"Professional, scientific and technical services",2019
+New Brunswick,28857,Public administration,2019
+New Brunswick,4710,Real estate and rental and leasing,2019
+New Brunswick,4670,Unclassified businesses,2019
+Newfoundland and Labrador,"16,298",Accommodation and food services,2019
+Newfoundland and Labrador,"6,124","Administrative and support, waste management and remediation services",2019
+Newfoundland and Labrador,"2,473","Arts, entertainment and recreation",2019
+Newfoundland and Labrador,"21,041","Educational services",2019
+Newfoundland and Labrador,"6,904",Finance and insurance,2019
+Newfoundland and Labrador,"33,782",Health care and social assistance,2019
+Newfoundland and Labrador,741,"Management of companies and enterprises",2019
+Newfoundland and Labrador,"6,609",Other services (except public administration),2019
+Newfoundland and Labrador,"7,471","Professional, scientific and technical services",2019
+Newfoundland and Labrador,"19,802",Public administration,2019
+Newfoundland and Labrador,"2,414",Real estate and rental and leasing,2019
+Newfoundland and Labrador,"5,433",Unclassified businesses,2019
+Northwest Territories,"1,903",Accommodation and food services,2019
+Northwest Territories,667,"Administrative and support, waste management and remediation services",2019
+Northwest Territories,282,"Arts, entertainment and recreation",2019
+Northwest Territories,"2,169","Educational services",2019
+Northwest Territories,455,Finance and insurance,2019
+Northwest Territories,"1,879",Health care and social assistance,2019
+Northwest Territories,60,"Management of companies and enterprises",2019
+Northwest Territories,903,Other services (except public administration),2019
+Northwest Territories,984,"Professional, scientific and technical services",2019
+Northwest Territories,"7,098",Public administration,2019
+Northwest Territories,507,Real estate and rental and leasing,2019
+Northwest Territories,167,Unclassified businesses,2019
+Nova Scotia,"32,837",Accommodation and food services,2019
+Nova Scotia,"19,050","Administrative and support, waste management and remediation services",2019
+Nova Scotia,"5,310","Arts, entertainment and recreation",2019
+Nova Scotia,"41,515","Educational services",2019
+Nova Scotia,"16,806",Finance and insurance,2019
+Nova Scotia,"68,930",Health care and social assistance,2019
+Nova Scotia,"1,820","Management of companies and enterprises",2019
+Nova Scotia,"12,424",Other services (except public administration),2019
+Nova Scotia,"16,646","Professional, scientific and technical services",2019
+Nova Scotia,"35,816",Public administration,2019
+Nova Scotia,"5,822",Real estate and rental and leasing,2019
+Nova Scotia,"7,393",Unclassified businesses,2019
+Nunavut,788,Accommodation and food services,2019
+Nunavut,677,"Administrative and support, waste management and remediation services",2019
+Nunavut,102,"Arts, entertainment and recreation",2019
+Nunavut,626,"Educational services",2019
+Nunavut,205,Finance and insurance,2019
+Nunavut,"1,128",Health care and social assistance,2019
+Nunavut,109,"Management of companies and enterprises",2019
+Nunavut,253,Other services (except public administration),2019
+Nunavut,192,"Professional, scientific and technical services",2019
+Nunavut,"6,762",Public administration,2019
+Nunavut,749,Real estate and rental and leasing,2019
+Nunavut,158,Unclassified businesses,2019
+Ontario,499480,Accommodation and food services,2019
+Ontario,384120,"Administrative and support, waste management and remediation services",2019
+Ontario,119120,"Arts, entertainment and recreation",2019
+Ontario,512613,"Educational services",2019
+Ontario,349531,Finance and insurance,2019
+Ontario,741437,Health care and social assistance,2019
+Ontario,38351,"Management of companies and enterprises",2019
+Ontario,202252,Other services (except public administration),2019
+Ontario,430070,"Professional, scientific and technical services",2019
+Ontario,434002,Public administration,2019
+Ontario,117598,Real estate and rental and leasing,2019
+Ontario,114627,Unclassified businesses,2019
+Prince Edward Island,6111,Accommodation and food services,2019
+Prince Edward Island,4214,"Administrative and support, waste management and remediation services",2019
+Prince Edward Island,1136,"Arts, entertainment and recreation",2019
+Prince Edward Island,5466,"Educational services",2019
+Prince Edward Island,1793,Finance and insurance,2019
+Prince Edward Island,10278,Health care and social assistance,2019
+Prince Edward Island,122,"Management of companies and enterprises",2019
+Prince Edward Island,2104,Other services (except public administration),2019
+Prince Edward Island,2270,"Professional, scientific and technical services",2019
+Prince Edward Island,8332,Public administration,2019
+Prince Edward Island,789,Real estate and rental and leasing,2019
+Prince Edward Island,1354,Unclassified businesses,2019
+Quebec,273190,Accommodation and food services,2019
+Quebec,172970,"Administrative and support, waste management and remediation services",2019
+Quebec,65068,"Arts, entertainment and recreation",2019
+Quebec,327543,"Educational services",2019
+Quebec,149891,Finance and insurance,2019
+Quebec,499075,Health care and social assistance,2019
+Quebec,23021,"Management of companies and enterprises",2019
+Quebec,128399,Other services (except public administration),2019
+Quebec,217523,"Professional, scientific and technical services",2019
+Quebec,258293,Public administration,2019
+Quebec,58853,Real estate and rental and leasing,2019
+Quebec,57296,Unclassified businesses,2019
+Saskatchewan,"37,571",Accommodation and food services,2019
+Saskatchewan,"13,229","Administrative and support, waste management and remediation services",2019
+Saskatchewan,"8,966","Arts, entertainment and recreation",2019
+Saskatchewan,"45,035","Educational services",2019
+Saskatchewan,"20,670",Finance and insurance,2019
+Saskatchewan,"69,506",Health care and social assistance,2019
+Saskatchewan,"2,051","Management of companies and enterprises",2019
+Saskatchewan,"16,962",Other services (except public administration),2019
+Saskatchewan,"14,709","Professional, scientific and technical services",2019
+Saskatchewan,"49,453",Public administration,2019
+Saskatchewan,"5,894",Real estate and rental and leasing,2019
+Saskatchewan,"6,277",Unclassified businesses,2019
+Yukon,"1,912",Accommodation and food services,2019
+Yukon,504,"Administrative and support, waste management and remediation services",2019
+Yukon,383,"Arts, entertainment and recreation",2019
+Yukon,"1,480","Educational services",2019
+Yukon,332,Finance and insurance,2019
+Yukon,"1,368",Health care and social assistance,2019
+Yukon,493,Information and cultural industries,2019
+Yukon,36,"Management of companies and enterprises",2019
+Yukon,574,Other services (except public administration),2019
+Yukon,717,"Professional, scientific and technical services",2019
+Yukon,"6,809",Public administration,2019
+Yukon,308,Real estate and rental and leasing,2019
+Yukon,389,Unclassified businesses,2019
+Alberta,124029,Accommodation and food services,2020
+Alberta,84333,"Administrative and support, waste management and remediation services",2020
+Alberta,26238,"Arts, entertainment and recreation",2020
+Alberta,136165,"Educational services",2020
+Alberta,62895,Finance and insurance,2020
+Alberta,208353,Health care and social assistance,2020
+Alberta,18209,"Management of companies and enterprises",2020
+Alberta,63671,Other services (except public administration),2020
+Alberta,111752,"Professional, scientific and technical services",2020
+Alberta,103007,Public administration,2020
+Alberta,36721,Real estate and rental and leasing,2020
+Alberta,28199,Unclassified businesses,2020
+British Columbia,170515,Accommodation and food services,2020
+British Columbia,96870,"Administrative and support, waste management and remediation services",2020
+British Columbia,33962,"Arts, entertainment and recreation",2020
+British Columbia,170833,"Educational services",2020
+British Columbia,87490,Finance and insurance,2020
+British Columbia,281460,Health care and social assistance,2020
+British Columbia,18136,"Management of companies and enterprises",2020
+British Columbia,68331,Other services (except public administration),2020
+British Columbia,135360,"Professional, scientific and technical services",2020
+British Columbia,130957,Public administration,2020
+British Columbia,40123,Real estate and rental and leasing,2020
+British Columbia,51213,Unclassified businesses,2020
+Manitoba,"34,238",Accommodation and food services,2020
+Manitoba,"21,197","Administrative and support, waste management and remediation services",2020
+Manitoba,"8,528","Arts, entertainment and recreation",2020
+Manitoba,"47,052","Educational services",2020
+Manitoba,"31,223",Finance and insurance,2020
+Manitoba,"96,640",Health care and social assistance,2020
+Manitoba,"4,526","Management of companies and enterprises",2020
+Manitoba,"18,065",Other services (except public administration),2020
+Manitoba,"17,697","Professional, scientific and technical services",2020
+Manitoba,"46,785",Public administration,2020
+Manitoba,"8,529",Real estate and rental and leasing,2020
+Manitoba,"9,667",Unclassified businesses,2020
+New Brunswick,"19,272",Accommodation and food services,2020
+New Brunswick,"14,701","Administrative and support, waste management and remediation services",2020
+New Brunswick,"3,433","Arts, entertainment and recreation",2020
+New Brunswick,"20,663","Educational services",2020
+New Brunswick,"15,286",Finance and insurance,2020
+New Brunswick,"51,396",Health care and social assistance,2020
+New Brunswick,833,"Management of companies and enterprises",2020
+New Brunswick,"7,946",Other services (except public administration),2020
+New Brunswick,"12,006","Professional, scientific and technical services",2020
+New Brunswick,"29,554",Public administration,2020
+New Brunswick,"4,176",Real estate and rental and leasing,2020
+New Brunswick,"4,634",Unclassified businesses,2020
+Newfoundland and Labrador,"12,717",Accommodation and food services,2020
+Newfoundland and Labrador,"5,560","Administrative and support, waste management and remediation services",2020
+Newfoundland and Labrador,"1,726","Arts, entertainment and recreation",2020
+Newfoundland and Labrador,"18,795","Educational services",2020
+Newfoundland and Labrador,"6,905",Finance and insurance,2020
+Newfoundland and Labrador,"33,654",Health care and social assistance,2020
+Newfoundland and Labrador,739,"Management of companies and enterprises",2020
+Newfoundland and Labrador,"5,664",Other services (except public administration),2020
+Newfoundland and Labrador,"7,194","Professional, scientific and technical services",2020
+Newfoundland and Labrador,"19,579",Public administration,2020
+Newfoundland and Labrador,"2,076",Real estate and rental and leasing,2020
+Newfoundland and Labrador,"4,984",Unclassified businesses,2020
+Northwest Territories,"1,346",Accommodation and food services,2020
+Northwest Territories,634,"Administrative and support, waste management and remediation services",2020
+Northwest Territories,242,"Arts, entertainment and recreation",2020
+Northwest Territories,"1,921","Educational services",2020
+Northwest Territories,430,Finance and insurance,2020
+Northwest Territories,"1,841",Health care and social assistance,2020
+Northwest Territories,31,"Management of companies and enterprises",2020
+Northwest Territories,834,Other services (except public administration),2020
+Northwest Territories,935,"Professional, scientific and technical services",2020
+Northwest Territories,"7,221",Public administration,2020
+Northwest Territories,455,Real estate and rental and leasing,2020
+Northwest Territories,206,Unclassified businesses,2020
+Nova Scotia,"24,786",Accommodation and food services,2020
+Nova Scotia,"17,348","Administrative and support, waste management and remediation services",2020
+Nova Scotia,"3,967","Arts, entertainment and recreation",2020
+Nova Scotia,"40,331","Educational services",2020
+Nova Scotia,"16,982",Finance and insurance,2020
+Nova Scotia,"66,569",Health care and social assistance,2020
+Nova Scotia,"1,951","Management of companies and enterprises",2020
+Nova Scotia,"11,062",Other services (except public administration),2020
+Nova Scotia,"16,382","Professional, scientific and technical services",2020
+Nova Scotia,"34,952",Public administration,2020
+Nova Scotia,"5,486",Real estate and rental and leasing,2020
+Nova Scotia,"6,207",Unclassified businesses,2020
+Nunavut,810,Accommodation and food services,2020
+Nunavut,682,"Administrative and support, waste management and remediation services",2020
+Nunavut,93,"Arts, entertainment and recreation",2020
+Nunavut,557,"Educational services",2020
+Nunavut,183,Finance and insurance,2020
+Nunavut,"1,091",Health care and social assistance,2020
+Nunavut,92,"Management of companies and enterprises",2020
+Nunavut,263,Other services (except public administration),2020
+Nunavut,191,"Professional, scientific and technical services",2020
+Nunavut,"6,707",Public administration,2020
+Nunavut,700,Real estate and rental and leasing,2020
+Nunavut,120,Unclassified businesses,2020
+Ontario,349698,Accommodation and food services,2020
+Ontario,344176,"Administrative and support, waste management and remediation services",2020
+Ontario,84299,"Arts, entertainment and recreation",2020
+Ontario,482092,"Educational services",2020
+Ontario,343494,Finance and insurance,2020
+Ontario,703672,Health care and social assistance,2020
+Ontario,41024,"Management of companies and enterprises",2020
+Ontario,168743,Other services (except public administration),2020
+Ontario,418909,"Professional, scientific and technical services",2020
+Ontario,416366,Public administration,2020
+Ontario,100802,Real estate and rental and leasing,2020
+Ontario,104002,Unclassified businesses,2020
+Prince Edward Island,4587,Accommodation and food services,2020
+Prince Edward Island,3674,"Administrative and support, waste management and remediation services",2020
+Prince Edward Island,906,"Arts, entertainment and recreation",2020
+Prince Edward Island,5357,"Educational services",2020
+Prince Edward Island,1743,Finance and insurance,2020
+Prince Edward Island,9338,Health care and social assistance,2020
+Prince Edward Island,146,"Management of companies and enterprises",2020
+Prince Edward Island,1873,Other services (except public administration),2020
+Prince Edward Island,2357,"Professional, scientific and technical services",2020
+Prince Edward Island,8908,Public administration,2020
+Prince Edward Island,743,Real estate and rental and leasing,2020
+Prince Edward Island,1089,Unclassified businesses,2020
+Quebec,190104,Accommodation and food services,2020
+Quebec,158420,"Administrative and support, waste management and remediation services",2020
+Quebec,46415,"Arts, entertainment and recreation",2020
+Quebec,313797,"Educational services",2020
+Quebec,149146,Finance and insurance,2020
+Quebec,500209,Health care and social assistance,2020
+Quebec,22758,"Management of companies and enterprises",2020
+Quebec,111296,Other services (except public administration),2020
+Quebec,217886,"Professional, scientific and technical services",2020
+Quebec,257470,Public administration,2020
+Quebec,46784,Real estate and rental and leasing,2020
+Quebec,50995,Unclassified businesses,2020
+Saskatchewan,"28,348",Accommodation and food services,2020
+Saskatchewan,"12,213","Administrative and support, waste management and remediation services",2020
+Saskatchewan,"6,436","Arts, entertainment and recreation",2020
+Saskatchewan,"42,520","Educational services",2020
+Saskatchewan,"20,657",Finance and insurance,2020
+Saskatchewan,"67,041",Health care and social assistance,2020
+Saskatchewan,"1,915","Management of companies and enterprises",2020
+Saskatchewan,"15,207",Other services (except public administration),2020
+Saskatchewan,"14,683","Professional, scientific and technical services",2020
+Saskatchewan,"48,944",Public administration,2020
+Saskatchewan,"5,055",Real estate and rental and leasing,2020
+Saskatchewan,"4,578",Unclassified businesses,2020
+Yukon,"1,432",Accommodation and food services,2020
+Yukon,444,"Administrative and support, waste management and remediation services",2020
+Yukon,294,"Arts, entertainment and recreation",2020
+Yukon,"1,483","Educational services",2020
+Yukon,333,Finance and insurance,2020
+Yukon,"1,436",Health care and social assistance,2020
+Yukon,456,Information and cultural industries,2020
+Yukon,37,"Management of companies and enterprises",2020
+Yukon,538,Other services (except public administration),2020
+Yukon,759,"Professional, scientific and technical services",2020
+Yukon,"6,537",Public administration,2020
+Yukon,273,Real estate and rental and leasing,2020
+Yukon,313,Unclassified businesses,2020
+Alberta,131355,Accommodation and food services,2021
+Alberta,86923,"Administrative and support, waste management and remediation services",2021
+Alberta,27691,"Arts, entertainment and recreation",2021
+Alberta,141698,"Educational services",2021
+Alberta,65107,Finance and insurance,2021
+Alberta,221390,Health care and social assistance,2021
+Alberta,18769,"Management of companies and enterprises",2021
+Alberta,67053,Other services (except public administration),2021
+Alberta,118638,"Professional, scientific and technical services",2021
+Alberta,105537,Public administration,2021
+Alberta,37165,Real estate and rental and leasing,2021
+Alberta,32649,Unclassified businesses,2021
+British Columbia,185086,Accommodation and food services,2021
+British Columbia,103077,"Administrative and support, waste management and remediation services",2021
+British Columbia,37458,"Arts, entertainment and recreation",2021
+British Columbia,171420,"Educational services",2021
+British Columbia,90821,Finance and insurance,2021
+British Columbia,302417,Health care and social assistance,2021
+British Columbia,19233,"Management of companies and enterprises",2021
+British Columbia,73995,Other services (except public administration),2021
+British Columbia,153966,"Professional, scientific and technical services",2021
+British Columbia,139905,Public administration,2021
+British Columbia,43783,Real estate and rental and leasing,2021
+British Columbia,57139,Unclassified businesses,2021
+Manitoba,"36,149",Accommodation and food services,2021
+Manitoba,"22,204","Administrative and support, waste management and remediation services",2021
+Manitoba,"9,405","Arts, entertainment and recreation",2021
+Manitoba,"50,891","Educational services",2021
+Manitoba,"31,343",Finance and insurance,2021
+Manitoba,"99,604",Health care and social assistance,2021
+Manitoba,"4,609","Management of companies and enterprises",2021
+Manitoba,"18,013",Other services (except public administration),2021
+Manitoba,"19,621","Professional, scientific and technical services",2021
+Manitoba,"47,723",Public administration,2021
+Manitoba,"7,953",Real estate and rental and leasing,2021
+Manitoba,"10,225",Unclassified businesses,2021
+New Brunswick,"21,058",Accommodation and food services,2021
+New Brunswick,"15,228","Administrative and support, waste management and remediation services",2021
+New Brunswick,"3,975","Arts, entertainment and recreation",2021
+New Brunswick,"20,910","Educational services",2021
+New Brunswick,"15,515",Finance and insurance,2021
+New Brunswick,"56,194",Health care and social assistance,2021
+New Brunswick,"1,322","Management of companies and enterprises",2021
+New Brunswick,"8,437",Other services (except public administration),2021
+New Brunswick,"13,217","Professional, scientific and technical services",2021
+New Brunswick,"32,608",Public administration,2021
+New Brunswick,"3,829",Real estate and rental and leasing,2021
+New Brunswick,"5,514",Unclassified businesses,2021
+Newfoundland and Labrador,"13,975",Accommodation and food services,2021
+Newfoundland and Labrador,"6,041","Administrative and support, waste management and remediation services",2021
+Newfoundland and Labrador,"1,983","Arts, entertainment and recreation",2021
+Newfoundland and Labrador,"19,177","Educational services",2021
+Newfoundland and Labrador,"7,274",Finance and insurance,2021
+Newfoundland and Labrador,"35,820",Health care and social assistance,2021
+Newfoundland and Labrador,677,"Management of companies and enterprises",2021
+Newfoundland and Labrador,"5,959",Other services (except public administration),2021
+Newfoundland and Labrador,"7,891","Professional, scientific and technical services",2021
+Newfoundland and Labrador,"20,833",Public administration,2021
+Newfoundland and Labrador,"2,091",Real estate and rental and leasing,2021
+Newfoundland and Labrador,"4,944",Unclassified businesses,2021
+Northwest Territories,"1,374",Accommodation and food services,2021
+Northwest Territories,701,"Administrative and support, waste management and remediation services",2021
+Northwest Territories,256,"Arts, entertainment and recreation",2021
+Northwest Territories,"2,070","Educational services",2021
+Northwest Territories,448,Finance and insurance,2021
+Northwest Territories,"1,996",Health care and social assistance,2021
+Northwest Territories,41,"Management of companies and enterprises",2021
+Northwest Territories,941,Other services (except public administration),2021
+Northwest Territories,983,"Professional, scientific and technical services",2021
+Northwest Territories,"7,604",Public administration,2021
+Northwest Territories,492,Real estate and rental and leasing,2021
+Northwest Territories,242,Unclassified businesses,2021
+Nova Scotia,"27,440",Accommodation and food services,2021
+Nova Scotia,"17,798","Administrative and support, waste management and remediation services",2021
+Nova Scotia,"4,501","Arts, entertainment and recreation",2021
+Nova Scotia,"42,906","Educational services",2021
+Nova Scotia,"17,821",Finance and insurance,2021
+Nova Scotia,"69,622",Health care and social assistance,2021
+Nova Scotia,"2,182","Management of companies and enterprises",2021
+Nova Scotia,"11,769",Other services (except public administration),2021
+Nova Scotia,"18,058","Professional, scientific and technical services",2021
+Nova Scotia,"36,416",Public administration,2021
+Nova Scotia,"5,392",Real estate and rental and leasing,2021
+Nova Scotia,"6,360",Unclassified businesses,2021
+Nunavut,757,Accommodation and food services,2021
+Nunavut,712,"Administrative and support, waste management and remediation services",2021
+Nunavut,92,"Arts, entertainment and recreation",2021
+Nunavut,608,"Educational services",2021
+Nunavut,187,Finance and insurance,2021
+Nunavut,"1,102",Health care and social assistance,2021
+Nunavut,138,"Management of companies and enterprises",2021
+Nunavut,354,Other services (except public administration),2021
+Nunavut,195,"Professional, scientific and technical services",2021
+Nunavut,"7,037",Public administration,2021
+Nunavut,792,Real estate and rental and leasing,2021
+Nunavut,85,Unclassified businesses,2021
+Ontario,370161,Accommodation and food services,2021
+Ontario,360971,"Administrative and support, waste management and remediation services",2021
+Ontario,80992,"Arts, entertainment and recreation",2021
+Ontario,498955,"Educational services",2021
+Ontario,356749,Finance and insurance,2021
+Ontario,751526,Health care and social assistance,2021
+Ontario,45656,"Management of companies and enterprises",2021
+Ontario,172541,Other services (except public administration),2021
+Ontario,455811,"Professional, scientific and technical services",2021
+Ontario,433319,Public administration,2021
+Ontario,104412,Real estate and rental and leasing,2021
+Ontario,110385,Unclassified businesses,2021
+Prince Edward Island,5488,Accommodation and food services,2021
+Prince Edward Island,4653,"Administrative and support, waste management and remediation services",2021
+Prince Edward Island,946,"Arts, entertainment and recreation",2021
+Prince Edward Island,5749,"Educational services",2021
+Prince Edward Island,1716,Finance and insurance,2021
+Prince Edward Island,9500,Health care and social assistance,2021
+Prince Edward Island,163,"Management of companies and enterprises",2021
+Prince Edward Island,2061,Other services (except public administration),2021
+Prince Edward Island,2591,"Professional, scientific and technical services",2021
+Prince Edward Island,9002,Public administration,2021
+Prince Edward Island,794,Real estate and rental and leasing,2021
+Prince Edward Island,1263,Unclassified businesses,2021
+Quebec,208148,Accommodation and food services,2021
+Quebec,164636,"Administrative and support, waste management and remediation services",2021
+Quebec,49926,"Arts, entertainment and recreation",2021
+Quebec,328635,"Educational services",2021
+Quebec,155654,Finance and insurance,2021
+Quebec,532104,Health care and social assistance,2021
+Quebec,23475,"Management of companies and enterprises",2021
+Quebec,119113,Other services (except public administration),2021
+Quebec,244451,"Professional, scientific and technical services",2021
+Quebec,273288,Public administration,2021
+Quebec,50061,Real estate and rental and leasing,2021
+Quebec,55753,Unclassified businesses,2021
+Saskatchewan,"31,221",Accommodation and food services,2021
+Saskatchewan,"12,537","Administrative and support, waste management and remediation services",2021
+Saskatchewan,"6,610","Arts, entertainment and recreation",2021
+Saskatchewan,"45,227","Educational services",2021
+Saskatchewan,"21,462",Finance and insurance,2021
+Saskatchewan,"71,850",Health care and social assistance,2021
+Saskatchewan,"2,224","Management of companies and enterprises",2021
+Saskatchewan,"16,491",Other services (except public administration),2021
+Saskatchewan,"16,346","Professional, scientific and technical services",2021
+Saskatchewan,"49,480",Public administration,2021
+Saskatchewan,"5,124",Real estate and rental and leasing,2021
+Saskatchewan,"5,007",Unclassified businesses,2021
+Yukon,"1,605",Accommodation and food services,2021
+Yukon,492,"Administrative and support, waste management and remediation services",2021
+Yukon,332,"Arts, entertainment and recreation",2021
+Yukon,"1,552","Educational services",2021
+Yukon,339,Finance and insurance,2021
+Yukon,"1,596",Health care and social assistance,2021
+Yukon,456,Information and cultural industries,2021
+Yukon,39,"Management of companies and enterprises",2021
+Yukon,559,Other services (except public administration),2021
+Yukon,791,"Professional, scientific and technical services",2021
+Yukon,"7,041",Public administration,2021
+Yukon,292,Real estate and rental and leasing,2021
+Yukon,394,Unclassified businesses,2021
+Alberta,154191,Accommodation and food services,2022
+Alberta,89905,"Administrative and support, waste management and remediation services",2022
+Alberta,36949,"Arts, entertainment and recreation",2022
+Alberta,147444,"Educational services",2022
+Alberta,68269,Finance and insurance,2022
+Alberta,232130,Health care and social assistance,2022
+Alberta,17302,"Management of companies and enterprises",2022
+Alberta,71678,Other services (except public administration),2022
+Alberta,128669,"Professional, scientific and technical services",2022
+Alberta,108160,Public administration,2022
+Alberta,38063,Real estate and rental and leasing,2022
+Alberta,44197,Unclassified businesses,2022
+British Columbia,216171,Accommodation and food services,2022
+British Columbia,114601,"Administrative and support, waste management and remediation services",2022
+British Columbia,45854,"Arts, entertainment and recreation",2022
+British Columbia,177755,"Educational services",2022
+British Columbia,95171,Finance and insurance,2022
+British Columbia,314026,Health care and social assistance,2022
+British Columbia,20709,"Management of companies and enterprises",2022
+British Columbia,78699,Other services (except public administration),2022
+British Columbia,180030,"Professional, scientific and technical services",2022
+British Columbia,147953,Public administration,2022
+British Columbia,48829,Real estate and rental and leasing,2022
+British Columbia,69329,Unclassified businesses,2022
+Manitoba,"42,722",Accommodation and food services,2022
+Manitoba,"21,427","Administrative and support, waste management and remediation services",2022
+Manitoba,"11,756","Arts, entertainment and recreation",2022
+Manitoba,"52,200","Educational services",2022
+Manitoba,"33,025",Finance and insurance,2022
+Manitoba,"98,782",Health care and social assistance,2022
+Manitoba,"4,411","Management of companies and enterprises",2022
+Manitoba,"19,387",Other services (except public administration),2022
+Manitoba,"19,746","Professional, scientific and technical services",2022
+Manitoba,"51,030",Public administration,2022
+Manitoba,"7,910",Real estate and rental and leasing,2022
+Manitoba,"11,972",Unclassified businesses,2022
+New Brunswick,"23,248",Accommodation and food services,2022
+New Brunswick,"14,761","Administrative and support, waste management and remediation services",2022
+New Brunswick,"4,583","Arts, entertainment and recreation",2022
+New Brunswick,"22,523","Educational services",2022
+New Brunswick,"16,208",Finance and insurance,2022
+New Brunswick,"56,884",Health care and social assistance,2022
+New Brunswick,"1,110","Management of companies and enterprises",2022
+New Brunswick,"8,769",Other services (except public administration),2022
+New Brunswick,"14,340","Professional, scientific and technical services",2022
+New Brunswick,"34,355",Public administration,2022
+New Brunswick,"3,911",Real estate and rental and leasing,2022
+New Brunswick,"6,169",Unclassified businesses,2022
+Newfoundland and Labrador,"15,651",Accommodation and food services,2022
+Newfoundland and Labrador,"6,566","Administrative and support, waste management and remediation services",2022
+Newfoundland and Labrador,"2,350","Arts, entertainment and recreation",2022
+Newfoundland and Labrador,"18,836","Educational services",2022
+Newfoundland and Labrador,"7,447",Finance and insurance,2022
+Newfoundland and Labrador,"35,913",Health care and social assistance,2022
+Newfoundland and Labrador,918,"Management of companies and enterprises",2022
+Newfoundland and Labrador,"6,234",Other services (except public administration),2022
+Newfoundland and Labrador,"8,758","Professional, scientific and technical services",2022
+Newfoundland and Labrador,"21,408",Public administration,2022
+Newfoundland and Labrador,"2,174",Real estate and rental and leasing,2022
+Newfoundland and Labrador,"5,383",Unclassified businesses,2022
+Northwest Territories,"1,474",Accommodation and food services,2022
+Northwest Territories,623,"Administrative and support, waste management and remediation services",2022
+Northwest Territories,262,"Arts, entertainment and recreation",2022
+Northwest Territories,"2,118","Educational services",2022
+Northwest Territories,491,Finance and insurance,2022
+Northwest Territories,"2,224",Health care and social assistance,2022
+Northwest Territories,x,"Management of companies and enterprises",2022
+Northwest Territories,893,Other services (except public administration),2022
+Northwest Territories,768,"Professional, scientific and technical services",2022
+Northwest Territories,"7,786",Public administration,2022
+Northwest Territories,477,Real estate and rental and leasing,2022
+Northwest Territories,354,Unclassified businesses,2022
+Nova Scotia,"32,566",Accommodation and food services,2022
+Nova Scotia,"18,037","Administrative and support, waste management and remediation services",2022
+Nova Scotia,"5,127","Arts, entertainment and recreation",2022
+Nova Scotia,"43,662","Educational services",2022
+Nova Scotia,"18,772",Finance and insurance,2022
+Nova Scotia,"70,393",Health care and social assistance,2022
+Nova Scotia,"2,111","Management of companies and enterprises",2022
+Nova Scotia,"12,617",Other services (except public administration),2022
+Nova Scotia,"19,495","Professional, scientific and technical services",2022
+Nova Scotia,"37,454",Public administration,2022
+Nova Scotia,"5,663",Real estate and rental and leasing,2022
+Nova Scotia,"8,003",Unclassified businesses,2022
+Nunavut,851,Accommodation and food services,2022
+Nunavut,698,"Administrative and support, waste management and remediation services",2022
+Nunavut,109,"Arts, entertainment and recreation",2022
+Nunavut,625,"Educational services",2022
+Nunavut,188,Finance and insurance,2022
+Nunavut,"1,172",Health care and social assistance,2022
+Nunavut,192,"Management of companies and enterprises",2022
+Nunavut,435,Other services (except public administration),2022
+Nunavut,243,"Professional, scientific and technical services",2022
+Nunavut,"6,853",Public administration,2022
+Nunavut,765,Real estate and rental and leasing,2022
+Nunavut,169,Unclassified businesses,2022
+Ontario,454049,Accommodation and food services,2022
+Ontario,377674,"Administrative and support, waste management and remediation services",2022
+Ontario,108417,"Arts, entertainment and recreation",2022
+Ontario,530182,"Educational services",2022
+Ontario,380585,Finance and insurance,2022
+Ontario,789311,Health care and social assistance,2022
+Ontario,46923,"Management of companies and enterprises",2022
+Ontario,193429,Other services (except public administration),2022
+Ontario,508077,"Professional, scientific and technical services",2022
+Ontario,453122,Public administration,2022
+Ontario,116119,Real estate and rental and leasing,2022
+Ontario,126563,Unclassified businesses,2022
+Prince Edward Island,"6,695",Accommodation and food services,2022
+Prince Edward Island,"4,856","Administrative and support, waste management and remediation services",2022
+Prince Edward Island,"1,155","Arts, entertainment and recreation",2022
+Prince Edward Island,"5,905","Educational services",2022
+Prince Edward Island,"1,920",Finance and insurance,2022
+Prince Edward Island,"9,777",Health care and social assistance,2022
+Prince Edward Island,x,"Management of companies and enterprises",2022
+Prince Edward Island,"2,204",Other services (except public administration),2022
+Prince Edward Island,"2,702","Professional, scientific and technical services",2022
+Prince Edward Island,"9,862",Public administration,2022
+Prince Edward Island,841,Real estate and rental and leasing,2022
+Prince Edward Island,"1,394",Unclassified businesses,2022
+Quebec,251493,Accommodation and food services,2022
+Quebec,166427,"Administrative and support, waste management and remediation services",2022
+Quebec,59981,"Arts, entertainment and recreation",2022
+Quebec,344450,"Educational services",2022
+Quebec,165944,Finance and insurance,2022
+Quebec,537892,Health care and social assistance,2022
+Quebec,26085,"Management of companies and enterprises",2022
+Quebec,126706,Other services (except public administration),2022
+Quebec,267033,"Professional, scientific and technical services",2022
+Quebec,282656,Public administration,2022
+Quebec,53220,Real estate and rental and leasing,2022
+Quebec,64770,Unclassified businesses,2022
+Saskatchewan,"35,239",Accommodation and food services,2022
+Saskatchewan,"13,009","Administrative and support, waste management and remediation services",2022
+Saskatchewan,"8,154","Arts, entertainment and recreation",2022
+Saskatchewan,"46,116","Educational services",2022
+Saskatchewan,"22,346",Finance and insurance,2022
+Saskatchewan,"72,694",Health care and social assistance,2022
+Saskatchewan,"2,390","Management of companies and enterprises",2022
+Saskatchewan,"17,170",Other services (except public administration),2022
+Saskatchewan,"17,890","Professional, scientific and technical services",2022
+Saskatchewan,"50,971",Public administration,2022
+Saskatchewan,"5,474",Real estate and rental and leasing,2022
+Saskatchewan,"5,565",Unclassified businesses,2022
+Yukon,"1,733",Accommodation and food services,2022
+Yukon,498,"Administrative and support, waste management and remediation services",2022
+Yukon,359,"Arts, entertainment and recreation",2022
+Yukon,"1,547","Educational services",2022
+Yukon,341,Finance and insurance,2022
+Yukon,"1,637",Health care and social assistance,2022
+Yukon,426,Information and cultural industries,2022
+Yukon,41,"Management of companies and enterprises",2022
+Yukon,544,Other services (except public administration),2022
+Yukon,814,"Professional, scientific and technical services",2022
+Yukon,"7,329",Public administration,2022
+Yukon,330,Real estate and rental and leasing,2022
+Yukon,602,Unclassified businesses,2022
+Alberta,162454,Accommodation and food services,2023
+Alberta,91726,"Administrative and support, waste management and remediation services",2023
+Alberta,40161,"Arts, entertainment and recreation",2023
+Alberta,153692,"Educational services",2023
+Alberta,71154,Finance and insurance,2023
+Alberta,250188,Health care and social assistance,2023
+Alberta,15572,"Management of companies and enterprises",2023
+Alberta,74885,Other services (except public administration),2023
+Alberta,134092,"Professional, scientific and technical services",2023
+Alberta,113238,Public administration,2023
+Alberta,38016,Real estate and rental and leasing,2023
+Alberta,44910,Unclassified businesses,2023
+British Columbia,224831,Accommodation and food services,2023
+British Columbia,119270,"Administrative and support, waste management and remediation services",2023
+British Columbia,50640,"Arts, entertainment and recreation",2023
+British Columbia,183608,"Educational services",2023
+British Columbia,96635,Finance and insurance,2023
+British Columbia,332736,Health care and social assistance,2023
+British Columbia,21158,"Management of companies and enterprises",2023
+British Columbia,81699,Other services (except public administration),2023
+British Columbia,190822,"Professional, scientific and technical services",2023
+British Columbia,156696,Public administration,2023
+British Columbia,49407,Real estate and rental and leasing,2023
+British Columbia,70867,Unclassified businesses,2023
+Manitoba,"44,101",Accommodation and food services,2023
+Manitoba,"20,497","Administrative and support, waste management and remediation services",2023
+Manitoba,"12,638","Arts, entertainment and recreation",2023
+Manitoba,"52,921","Educational services",2023
+Manitoba,"33,677",Finance and insurance,2023
+Manitoba,"104,054",Health care and social assistance,2023
+Manitoba,"4,071","Management of companies and enterprises",2023
+Manitoba,"20,602",Other services (except public administration),2023
+Manitoba,"20,191","Professional, scientific and technical services",2023
+Manitoba,"52,040",Public administration,2023
+Manitoba,"8,035",Real estate and rental and leasing,2023
+Manitoba,"12,961",Unclassified businesses,2023
+New Brunswick,"24,150",Accommodation and food services,2023
+New Brunswick,"14,640","Administrative and support, waste management and remediation services",2023
+New Brunswick,"4,891","Arts, entertainment and recreation",2023
+New Brunswick,"23,488","Educational services",2023
+New Brunswick,"16,919",Finance and insurance,2023
+New Brunswick,"59,369",Health care and social assistance,2023
+New Brunswick,"1,226","Management of companies and enterprises",2023
+New Brunswick,"9,305",Other services (except public administration),2023
+New Brunswick,"14,764","Professional, scientific and technical services",2023
+New Brunswick,"35,145",Public administration,2023
+New Brunswick,"4,087",Real estate and rental and leasing,2023
+New Brunswick,"6,444",Unclassified businesses,2023
+Newfoundland and Labrador,"15,818",Accommodation and food services,2023
+Newfoundland and Labrador,"6,895","Administrative and support, waste management and remediation services",2023
+Newfoundland and Labrador,"2,394","Arts, entertainment and recreation",2023
+Newfoundland and Labrador,"18,876","Educational services",2023
+Newfoundland and Labrador,"7,546",Finance and insurance,2023
+Newfoundland and Labrador,"36,293",Health care and social assistance,2023
+Newfoundland and Labrador,938,"Management of companies and enterprises",2023
+Newfoundland and Labrador,"6,219",Other services (except public administration),2023
+Newfoundland and Labrador,"8,917","Professional, scientific and technical services",2023
+Newfoundland and Labrador,"21,155",Public administration,2023
+Newfoundland and Labrador,"2,281",Real estate and rental and leasing,2023
+Newfoundland and Labrador,"6,096",Unclassified businesses,2023
+Northwest Territories,"1,780",Accommodation and food services,2023
+Northwest Territories,615,"Administrative and support, waste management and remediation services",2023
+Northwest Territories,312,"Arts, entertainment and recreation",2023
+Northwest Territories,"2,190","Educational services",2023
+Northwest Territories,496,Finance and insurance,2023
+Northwest Territories,"2,342",Health care and social assistance,2023
+Northwest Territories,77,"Management of companies and enterprises",2023
+Northwest Territories,823,Other services (except public administration),2023
+Northwest Territories,707,"Professional, scientific and technical services",2023
+Northwest Territories,"7,847",Public administration,2023
+Northwest Territories,499,Real estate and rental and leasing,2023
+Northwest Territories,543,Unclassified businesses,2023
+Nova Scotia,"33,861",Accommodation and food services,2023
+Nova Scotia,"18,435","Administrative and support, waste management and remediation services",2023
+Nova Scotia,"5,523","Arts, entertainment and recreation",2023
+Nova Scotia,"45,109","Educational services",2023
+Nova Scotia,"18,354",Finance and insurance,2023
+Nova Scotia,"73,273",Health care and social assistance,2023
+Nova Scotia,"2,227","Management of companies and enterprises",2023
+Nova Scotia,"13,219",Other services (except public administration),2023
+Nova Scotia,"20,271","Professional, scientific and technical services",2023
+Nova Scotia,"38,878",Public administration,2023
+Nova Scotia,"5,391",Real estate and rental and leasing,2023
+Nova Scotia,"7,925",Unclassified businesses,2023
+Nunavut,"1,029",Accommodation and food services,2023
+Nunavut,840,"Administrative and support, waste management and remediation services",2023
+Nunavut,106,"Arts, entertainment and recreation",2023
+Nunavut,745,"Educational services",2023
+Nunavut,217,Finance and insurance,2023
+Nunavut,"1,235",Health care and social assistance,2023
+Nunavut,218,"Management of companies and enterprises",2023
+Nunavut,553,Other services (except public administration),2023
+Nunavut,336,"Professional, scientific and technical services",2023
+Nunavut,"6,561",Public administration,2023
+Nunavut,788,Real estate and rental and leasing,2023
+Nunavut,238,Unclassified businesses,2023
+Ontario,480157,Accommodation and food services,2023
+Ontario,378276,"Administrative and support, waste management and remediation services",2023
+Ontario,118525,"Arts, entertainment and recreation",2023
+Ontario,549782,"Educational services",2023
+Ontario,391447,Finance and insurance,2023
+Ontario,818041,Health care and social assistance,2023
+Ontario,47848,"Management of companies and enterprises",2023
+Ontario,201021,Other services (except public administration),2023
+Ontario,531730,"Professional, scientific and technical services",2023
+Ontario,476657,Public administration,2023
+Ontario,120802,Real estate and rental and leasing,2023
+Ontario,126545,Unclassified businesses,2023
+Prince Edward Island,"7,206",Accommodation and food services,2023
+Prince Edward Island,"4,453","Administrative and support, waste management and remediation services",2023
+Prince Edward Island,"1,219","Arts, entertainment and recreation",2023
+Prince Edward Island,"6,231","Educational services",2023
+Prince Edward Island,"1,989",Finance and insurance,2023
+Prince Edward Island,"9,944",Health care and social assistance,2023
+Prince Edward Island,x,"Management of companies and enterprises",2023
+Prince Edward Island,"2,366",Other services (except public administration),2023
+Prince Edward Island,"2,912","Professional, scientific and technical services",2023
+Prince Edward Island,"10,293",Public administration,2023
+Prince Edward Island,x,Real estate and rental and leasing,2023
+Prince Edward Island,"1,384",Unclassified businesses,2023
+Quebec,270159,Accommodation and food services,2023
+Quebec,166609,"Administrative and support, waste management and remediation services",2023
+Quebec,65290,"Arts, entertainment and recreation",2023
+Quebec,347457,"Educational services",2023
+Quebec,176331,Finance and insurance,2023
+Quebec,533244,Health care and social assistance,2023
+Quebec,27730,"Management of companies and enterprises",2023
+Quebec,133854,Other services (except public administration),2023
+Quebec,274817,"Professional, scientific and technical services",2023
+Quebec,291053,Public administration,2023
+Quebec,54527,Real estate and rental and leasing,2023
+Quebec,65473,Unclassified businesses,2023
+Saskatchewan,"36,888",Accommodation and food services,2023
+Saskatchewan,"13,256","Administrative and support, waste management and remediation services",2023
+Saskatchewan,"8,922","Arts, entertainment and recreation",2023
+Saskatchewan,"47,018","Educational services",2023
+Saskatchewan,"23,096",Finance and insurance,2023
+Saskatchewan,"74,154",Health care and social assistance,2023
+Saskatchewan,"9,167",Information and cultural industries,2023
+Saskatchewan,"2,915","Management of companies and enterprises",2023
+Saskatchewan,"18,067",Other services (except public administration),2023
+Saskatchewan,"18,977","Professional, scientific and technical services",2023
+Saskatchewan,"52,244",Public administration,2023
+Saskatchewan,"5,317",Real estate and rental and leasing,2023
+Saskatchewan,"5,914",Unclassified businesses,2023
+Yukon,"1,864",Accommodation and food services,2023
+Yukon,527,"Administrative and support, waste management and remediation services",2023
+Yukon,384,"Arts, entertainment and recreation",2023
+Yukon,"1,607","Educational services",2023
+Yukon,348,Finance and insurance,2023
+Yukon,"1,732",Health care and social assistance,2023
+Yukon,416,Information and cultural industries,2023
+Yukon,x,"Management of companies and enterprises",2023
+Yukon,598,Other services (except public administration),2023
+Yukon,785,"Professional, scientific and technical services",2023
+Yukon,"7,627",Public administration,2023
+Yukon,x,Real estate and rental and leasing,2023
+Yukon,611,Unclassified businesses,2023
+Alberta,162273,Accommodation and food services,2024
+Alberta,92983,"Administrative and support, waste management and remediation services",2024
+Alberta,41526,"Arts, entertainment and recreation",2024
+Alberta,158843,"Educational services",2024
+Alberta,73984,Finance and insurance,2024
+Alberta,262504,Health care and social assistance,2024
+Alberta,15135,"Management of companies and enterprises",2024
+Alberta,75339,Other services (except public administration),2024
+Alberta,135651,"Professional, scientific and technical services",2024
+Alberta,117804,Public administration,2024
+Alberta,37698,Real estate and rental and leasing,2024
+Alberta,48777,Unclassified businesses,2024
+British Columbia,222286,Accommodation and food services,2024
+British Columbia,118166,"Administrative and support, waste management and remediation services",2024
+British Columbia,51187,"Arts, entertainment and recreation",2024
+British Columbia,186070,"Educational services",2024
+British Columbia,97759,Finance and insurance,2024
+British Columbia,348753,Health care and social assistance,2024
+British Columbia,18296,"Management of companies and enterprises",2024
+British Columbia,83171,Other services (except public administration),2024
+British Columbia,186193,"Professional, scientific and technical services",2024
+British Columbia,164777,Public administration,2024
+British Columbia,50303,Real estate and rental and leasing,2024
+British Columbia,72368,Unclassified businesses,2024
+Manitoba,"42,990",Accommodation and food services,2024
+Manitoba,"20,005","Administrative and support, waste management and remediation services",2024
+Manitoba,"13,396","Arts, entertainment and recreation",2024
+Manitoba,"54,956","Educational services",2024
+Manitoba,"32,119",Finance and insurance,2024
+Manitoba,"104,910",Health care and social assistance,2024
+Manitoba,"4,002","Management of companies and enterprises",2024
+Manitoba,"21,167",Other services (except public administration),2024
+Manitoba,"20,107","Professional, scientific and technical services",2024
+Manitoba,"52,773",Public administration,2024
+Manitoba,"8,184",Real estate and rental and leasing,2024
+Manitoba,"12,791",Unclassified businesses,2024
+New Brunswick,"23,673",Accommodation and food services,2024
+New Brunswick,"11,936","Administrative and support, waste management and remediation services",2024
+New Brunswick,"5,067","Arts, entertainment and recreation",2024
+New Brunswick,"23,054","Educational services",2024
+New Brunswick,"17,323",Finance and insurance,2024
+New Brunswick,"62,744",Health care and social assistance,2024
+New Brunswick,"1,088","Management of companies and enterprises",2024
+New Brunswick,"9,371",Other services (except public administration),2024
+New Brunswick,"14,500","Professional, scientific and technical services",2024
+New Brunswick,"37,331",Public administration,2024
+New Brunswick,"4,362",Real estate and rental and leasing,2024
+New Brunswick,"7,056",Unclassified businesses,2024
+Newfoundland and Labrador,"15,581",Accommodation and food services,2024
+Newfoundland and Labrador,"6,595","Administrative and support, waste management and remediation services",2024
+Newfoundland and Labrador,"2,341","Arts, entertainment and recreation",2024
+Newfoundland and Labrador,"18,812","Educational services",2024
+Newfoundland and Labrador,"7,356",Finance and insurance,2024
+Newfoundland and Labrador,"36,524",Health care and social assistance,2024
+Newfoundland and Labrador,749,"Management of companies and enterprises",2024
+Newfoundland and Labrador,"6,398",Other services (except public administration),2024
+Newfoundland and Labrador,"8,677","Professional, scientific and technical services",2024
+Newfoundland and Labrador,"21,633",Public administration,2024
+Newfoundland and Labrador,"2,281",Real estate and rental and leasing,2024
+Newfoundland and Labrador,"6,455",Unclassified businesses,2024
+Northwest Territories,"1,727",Accommodation and food services,2024
+Northwest Territories,790,"Administrative and support, waste management and remediation services",2024
+Northwest Territories,277,"Arts, entertainment and recreation",2024
+Northwest Territories,"2,224","Educational services",2024
+Northwest Territories,474,Finance and insurance,2024
+Northwest Territories,"2,206",Health care and social assistance,2024
+Northwest Territories,82,"Management of companies and enterprises",2024
+Northwest Territories,813,Other services (except public administration),2024
+Northwest Territories,786,"Professional, scientific and technical services",2024
+Northwest Territories,"7,713",Public administration,2024
+Northwest Territories,519,Real estate and rental and leasing,2024
+Northwest Territories,634,Unclassified businesses,2024
+Nova Scotia,"33,453",Accommodation and food services,2024
+Nova Scotia,"17,670","Administrative and support, waste management and remediation services",2024
+Nova Scotia,"5,609","Arts, entertainment and recreation",2024
+Nova Scotia,"46,151","Educational services",2024
+Nova Scotia,"18,583",Finance and insurance,2024
+Nova Scotia,"77,373",Health care and social assistance,2024
+Nova Scotia,"2,261","Management of companies and enterprises",2024
+Nova Scotia,"13,641",Other services (except public administration),2024
+Nova Scotia,"20,767","Professional, scientific and technical services",2024
+Nova Scotia,"40,022",Public administration,2024
+Nova Scotia,"5,856",Real estate and rental and leasing,2024
+Nova Scotia,"8,220",Unclassified businesses,2024
+Nunavut,"1,074",Accommodation and food services,2024
+Nunavut,877,"Administrative and support, waste management and remediation services",2024
+Nunavut,104,"Arts, entertainment and recreation",2024
+Nunavut,747,"Educational services",2024
+Nunavut,210,Finance and insurance,2024
+Nunavut,"1,282",Health care and social assistance,2024
+Nunavut,x,"Management of companies and enterprises",2024
+Nunavut,410,Other services (except public administration),2024
+Nunavut,338,"Professional, scientific and technical services",2024
+Nunavut,"6,825",Public administration,2024
+Nunavut,x,Real estate and rental and leasing,2024
+Nunavut,179,Unclassified businesses,2024
+Ontario,481384,Accommodation and food services,2024
+Ontario,372799,"Administrative and support, waste management and remediation services",2024
+Ontario,120094,"Arts, entertainment and recreation",2024
+Ontario,562544,"Educational services",2024
+Ontario,402225,Finance and insurance,2024
+Ontario,847543,Health care and social assistance,2024
+Ontario,48494,"Management of companies and enterprises",2024
+Ontario,205157,Other services (except public administration),2024
+Ontario,544811,"Professional, scientific and technical services",2024
+Ontario,494499,Public administration,2024
+Ontario,121971,Real estate and rental and leasing,2024
+Ontario,125884,Unclassified businesses,2024
+Prince Edward Island,"7,121",Accommodation and food services,2024
+Prince Edward Island,"4,341","Administrative and support, waste management and remediation services",2024
+Prince Edward Island,"1,136","Arts, entertainment and recreation",2024
+Prince Edward Island,"6,436","Educational services",2024
+Prince Edward Island,"2,121",Finance and insurance,2024
+Prince Edward Island,"10,311",Health care and social assistance,2024
+Prince Edward Island,180,"Management of companies and enterprises",2024
+Prince Edward Island,"2,453",Other services (except public administration),2024
+Prince Edward Island,"3,049","Professional, scientific and technical services",2024
+Prince Edward Island,"10,579",Public administration,2024
+Prince Edward Island,"1,033",Real estate and rental and leasing,2024
+Prince Edward Island,"1,552",Unclassified businesses,2024
+Quebec,269488,Accommodation and food services,2024
+Quebec,161075,"Administrative and support, waste management and remediation services",2024
+Quebec,67867,"Arts, entertainment and recreation",2024
+Quebec,362554,"Educational services",2024
+Quebec,173898,Finance and insurance,2024
+Quebec,550319,Health care and social assistance,2024
+Quebec,26556,"Management of companies and enterprises",2024
+Quebec,135238,Other services (except public administration),2024
+Quebec,275886,"Professional, scientific and technical services",2024
+Quebec,300014,Public administration,2024
+Quebec,55168,Real estate and rental and leasing,2024
+Quebec,65505,Unclassified businesses,2024
+Saskatchewan,"37,119",Accommodation and food services,2024
+Saskatchewan,"13,431","Administrative and support, waste management and remediation services",2024
+Saskatchewan,"8,888","Arts, entertainment and recreation",2024
+Saskatchewan,"47,462","Educational services",2024
+Saskatchewan,"23,162",Finance and insurance,2024
+Saskatchewan,"79,213",Health care and social assistance,2024
+Saskatchewan,"8,947",Information and cultural industries,2024
+Saskatchewan,"3,194","Management of companies and enterprises",2024
+Saskatchewan,"19,035",Other services (except public administration),2024
+Saskatchewan,"18,616","Professional, scientific and technical services",2024
+Saskatchewan,"52,508",Public administration,2024
+Saskatchewan,"5,281",Real estate and rental and leasing,2024
+Saskatchewan,"6,642",Unclassified businesses,2024
+Yukon,"1,859",Accommodation and food services,2024
+Yukon,561,"Administrative and support, waste management and remediation services",2024
+Yukon,398,"Arts, entertainment and recreation",2024
+Yukon,"1,739","Educational services",2024
+Yukon,397,Finance and insurance,2024
+Yukon,"1,869",Health care and social assistance,2024
+Yukon,393,Information and cultural industries,2024
+Yukon,x,"Management of companies and enterprises",2024
+Yukon,724,Other services (except public administration),2024
+Yukon,778,"Professional, scientific and technical services",2024
+Yukon,"8,157",Public administration,2024
+Yukon,x,Real estate and rental and leasing,2024
+Yukon,521,Unclassified businesses,2024
