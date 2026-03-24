@@ -7,13 +7,28 @@ Which industries should receive more or less government investment (subsidies, t
 
 ## Table of Contents
 
+[Dashboard](#dasboard-link-and-explanation)  
+[Decision Makers](#decision-makers)  
+[Executive Summary](#executive-summary)  
+[Summary of Data](#summary-of-datasets)  
+[Visualizations](#visualizations)  
+[Analysis](#analysis)  
+[Recommendations](#recommendations)  
+[Future Work](#future-work)  
+[Citations](#citations)  
+[Wrangling Process](WRANGLING.md)  
+[Data Sets](data/)  
+[Detailed Data](data/README.md)  
+[Code for Dashboard](src/)  
+[Background Statement](BACKGROUND.md)
+
 ## Dasboard Link and Explanation
 
 ### [Link to Dashboard](https://labour-investment-u2r8x8zjjsvbxu6wqjragn.streamlit.app/)
 
 The dashboard includes built-in instructions directly on the site to guide users on how to navigate the filters, charts, and map features. It is designed to support decision-making by allowing users to explore labour market data in an interactive way. By adjusting filters such as industry, year, and statistics, users can quickly identify trends and patterns that highlight which industries may require increased investment. The interactive design makes complex data easier to understand, helping users make more informed and evidence-based investment decisions.
 
-## Decisions Maker 
+## Decision Makers 
 
 Provincial and Federal Ministers of Labour [Full List](https://github.com/jwright131/labour-investment/blob/main/BACKGROUND.md#decision-maker)
 
