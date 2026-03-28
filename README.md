@@ -74,6 +74,15 @@ This time-series chart tracks job vacancies from 2019 to 2025 across selected in
 
 ## Causal Loop Diagram
 
+![CLD Diagram](img/cld.png "Causal Loop Diagram")
+
+The causal loop diagram illustrates the dynamic relationships between government investment, labour market conditions, and economic performance in order to identify where policy intervention can most effectively improve workforce outcomes. The system begins with **government investment**, which acts as a primary leverage point influencing both **industry capacity** and **skills development**. Increased investment allows industries to expand infrastructure, technology, and productive capabilities, leading to **business expansion** and increased **labour demand**. As demand for workers grows, **employment** rises, contributing to greater **economic output**, which in turn supports continued or increased government investment. This creates the first feedback loop, labeled **R1 (Reinforcing Growth Loop)**, where economic growth and employment mutually strengthen one another over time. This loop demonstrates how strategic investment can create long-term economic expansion and job creation when aligned with industry needs.
+
+The second feedback loop, labeled **B1 (Balancing Labour Loop)**, explains how labour markets adjust when demand for workers exceeds supply. As labour demand increases, **job vacancies** rise, resulting in a higher **vacancy rate**. A higher vacancy rate signals labour shortages and places upward pressure on **wage levels** as firms compete for employees. Higher wages increase **industry attractiveness**, encouraging more workers to enter the labour market or shift toward higher-demand industries, increasing **labour supply**. As labour supply grows, job vacancies begin to decline, helping stabilize the system. This balancing loop demonstrates how wage adjustments help correct labour shortages over time.
+
+The diagram highlights **government investment** and **skills development** as key leverage points because they influence both loops simultaneously. Investment targeted toward workforce training increases labour supply directly, reducing persistent vacancy rates and helping industries grow sustainably without excessive wage inflation. Without sufficient labour supply, increased investment may only increase labour demand, worsening shortages and raising costs. By improving workforce skills and supporting productive capacity at the same time, policy-makers can promote stable employment growth and long-term economic output. Overall, the diagram demonstrates that coordinated investment in both industry development and labour supply is necessary to create a balanced and sustainable labour market system.
+
+
 ## Analysis
 
 ## Recommendations
